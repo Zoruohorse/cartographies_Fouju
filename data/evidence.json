@@ -1,0 +1,758 @@
+[
+  {
+    "id": "evidence_0001",
+    "type": "quote",
+    "text": "Dénonce le caractère « hors norme » du projet.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0002",
+    "type": "summary",
+    "text": "Liée à FNE 77 dans la coordination locale.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0003",
+    "type": "summary",
+    "text": "Dénonce le flou entourant les consommations d’eau.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0004",
+    "type": "summary",
+    "text": "Soutien actif du réseau Solidaires Essonne.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0005",
+    "type": "summary",
+    "text": "Rattachée aux actions de terrain des Écologistes.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0006",
+    "type": "summary",
+    "text": "Connectée au réseau d’expertise de La Quadrature du Net.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0007",
+    "type": "summary",
+    "text": "Soutien académique à l’opposition.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0008",
+    "type": "summary",
+    "text": "Analyse critique du dimensionnement infrastructurel.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0009",
+    "type": "summary",
+    "text": "Rapport et alerte technique issus du Shift Project.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0010",
+    "type": "quote",
+    "text": "« La machine est déjà en route »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0011",
+    "type": "summary",
+    "text": "Analyse socio-technique de la dépendance.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0012",
+    "type": "summary",
+    "text": "Auteur d’analyses critiques pour l’Observatoire.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0013",
+    "type": "summary",
+    "text": "Tribune relayée dans L’Humanité.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0014",
+    "type": "summary",
+    "text": "Analyse de la mobilisation sur le terrain.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0015",
+    "type": "summary",
+    "text": "Dénonciation du contournement de classement Seveso.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0016",
+    "type": "quote",
+    "text": "« Est-ce qu’on a vraiment besoin de ce centre ? »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0017",
+    "type": "quote",
+    "text": "« On a l’impression d’être les poubelles de Paris »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0018",
+    "type": "summary",
+    "text": "Impact direct allégué sur son exploitation agricole.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0019",
+    "type": "summary",
+    "text": "Passerelles de solidarité avec le Collectif du Bourget.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0020",
+    "type": "quote",
+    "text": "« Fouju devient une cause nationale »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0021",
+    "type": "summary",
+    "text": "Action parlementaire concertée avec le bloc de gauche.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0022",
+    "type": "summary",
+    "text": "Soutien au bloc de gauche régional.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0023",
+    "type": "quote",
+    "text": "Dénonce une « colonie numérique ».",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0024",
+    "type": "summary",
+    "text": "Dépôt d’amendements législatifs.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0025",
+    "type": "summary",
+    "text": "Le projet pourrait générer plusieurs millions d’euros de recettes foncières.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0026",
+    "type": "summary",
+    "text": "Défense publique de la souveraineté technologique.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0027",
+    "type": "summary",
+    "text": "Vigilance affirmée sur l’eau et la mobilité.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0028",
+    "type": "summary",
+    "text": "Inquiétudes techniques sur l’urbanisme local.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0029",
+    "type": "summary",
+    "text": "Argument de pragmatisme compétitif territorial.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0030",
+    "type": "summary",
+    "text": "Défense de l’attractivité économique régionale.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0031",
+    "type": "quote",
+    "text": "Slogan « MGX choisit la France ».",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0032",
+    "type": "summary",
+    "text": "Absence de déclaration publique directe sur le projet.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0033",
+    "type": "summary",
+    "text": "Organisation d’une conférence de presse et dépôt de contributions.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0034",
+    "type": "summary",
+    "text": "Analyse juridique régionale.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0035",
+    "type": "summary",
+    "text": "Mobilisation annoncée de plus de 200 personnes le 24 mai.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0036",
+    "type": "summary",
+    "text": "Coordination avec FNE 77.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0037",
+    "type": "summary",
+    "text": "Action syndicale régionale.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0038",
+    "type": "summary",
+    "text": "Inventaires naturalistes contradictoires.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0039",
+    "type": "summary",
+    "text": "Lien avec les mobilisations locales.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0040",
+    "type": "summary",
+    "text": "Présence aux mobilisations.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0041",
+    "type": "summary",
+    "text": "Présence lors de points presse.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0042",
+    "type": "summary",
+    "text": "Soutien via William Elie.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0043",
+    "type": "summary",
+    "text": "Exigence formelle de moratoire.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0044",
+    "type": "summary",
+    "text": "Front commun avec Les Amis de la Terre.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0045",
+    "type": "summary",
+    "text": "Membre de la coalition élargie.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0046",
+    "type": "summary",
+    "text": "Front commun avec Les Soulèvements de la Terre.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0047",
+    "type": "summary",
+    "text": "Pétition annoncée à plus de 50 000 signatures.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0048",
+    "type": "summary",
+    "text": "Direction opérationnelle liée à MGX.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0049",
+    "type": "summary",
+    "text": "Partenariat stratégique dans le cadre de Choose France.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0050",
+    "type": "summary",
+    "text": "Co-investisseur stratégique étatique.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0051",
+    "type": "summary",
+    "text": "Contrat annoncé supérieur à 120 M€.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0052",
+    "type": "summary",
+    "text": "Participation annoncée à 4 %.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0053",
+    "type": "summary",
+    "text": "Participation exacte à vérifier.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0054",
+    "type": "summary",
+    "text": "Campus académique annoncé sur 60 à 65 ha.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0055",
+    "type": "summary",
+    "text": "Paliers annoncés de 240 MW puis 700 MW.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0056",
+    "type": "summary",
+    "text": "Avis environnemental formel à consulter.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0057",
+    "type": "summary",
+    "text": "Passé administratif documenté.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0058",
+    "type": "summary",
+    "text": "Avis antérieur motivé.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0059",
+    "type": "summary",
+    "text": "Encadrement direct de l’événement.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0060",
+    "type": "summary",
+    "text": "Connexion aux luttes nationales.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0061",
+    "type": "summary",
+    "text": "Lien avec Marie-Paule Direur.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0062",
+    "type": "summary",
+    "text": "Mobilisation francilienne transversale.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0063",
+    "type": "summary",
+    "text": "Mise en réseau des contestations.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0064",
+    "type": "summary",
+    "text": "Soutien expert en réseau.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0065",
+    "type": "summary",
+    "text": "Soutien analytique en réseau.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0066",
+    "type": "summary",
+    "text": "Inspiration pour les mouvements locaux.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0067",
+    "type": "quote",
+    "text": "« Ma circonscription est la poubelle de l’Île-de-France. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0068",
+    "type": "summary",
+    "text": "Critique l’appropriation des terres et de l’énergie.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0069",
+    "type": "summary",
+    "text": "Estimation d’une hausse de NOx à vérifier dans la source primaire.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0070",
+    "type": "quote",
+    "text": "« Pas de foncier, pas de datacenter, pas de plateforme. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0071",
+    "type": "quote",
+    "text": "« Écologiquement parlant, c’est une cata. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0072",
+    "type": "quote",
+    "text": "« On aimerait bien que Fouju reste comme ça. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0073",
+    "type": "quote",
+    "text": "« Ça va générer de l’argent et de l’emploi. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0074",
+    "type": "quote",
+    "text": "« Et là, on en crame 70 hectares pour rien. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0075",
+    "type": "quote",
+    "text": "« On n’a pas besoin d’accaparer autant de terres agricoles. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0076",
+    "type": "quote",
+    "text": "« Dans la deuxième phase du projet, ils vont quand même pomper dans la nappe phréatique. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0077",
+    "type": "summary",
+    "text": "Communiqué du 26 août mentionné dans la base.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0078",
+    "type": "summary",
+    "text": "Périmètre exact de l’arrêté à vérifier.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0079",
+    "type": "quote",
+    "text": "« Il sera vraiment juste derrière ma maison. »",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0080",
+    "type": "summary",
+    "text": "Sensibilité annoncée aux inquiétudes locales.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0081",
+    "type": "summary",
+    "text": "Argument de relocalisation des données.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0082",
+    "type": "summary",
+    "text": "Position portée par son délégué général.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0083",
+    "type": "summary",
+    "text": "Fouju cité parmi les terres promises au béton.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0084",
+    "type": "summary",
+    "text": "Chiffres internationaux à vérifier dans la publication d’origine.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  }
+]

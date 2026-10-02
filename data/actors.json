@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "project_fouju",
+    "type": "project",
+    "name": "Campus IA Fouju",
+    "short_name": "Campus IA Fouju",
+    "description": "Projet de méga-campus de centres de données et de calcul IA à Fouju. Les dimensions, puissances et calendriers doivent être relus dans les sources primaires.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0001",
+    "type": "organization",
+    "name": "Jean-François Dupont",
+    "short_name": "Jean-François Dupont",
+    "description": "FNE 77",
+    "roles": [
+      {
+        "label": "FNE 77"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0002",
+    "type": "person",
+    "name": "Jane Buisson",
+    "short_name": "Jane Buisson",
+    "description": "Vice-présidente de FNE 77",
+    "roles": [
+      {
+        "label": "Vice-présidente de FNE 77"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0003",
+    "type": "person",
+    "name": "Aline Aurias",
+    "short_name": "Aline Aurias",
+    "description": "Porte-parole de la Confédération paysanne",
+    "roles": [
+      {
+        "label": "Porte-parole de la Confédération paysanne"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0004",
+    "type": "organization",
+    "name": "William Elie",
+    "short_name": "William Elie",
+    "description": "Alliance écologique et sociale",
+    "roles": [
+      {
+        "label": "Alliance écologique et sociale"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0005",
+    "type": "organization",
+    "name": "Dorothée Villemaux",
+    "short_name": "Dorothée Villemaux",
+    "description": "Les Écologistes de Melun Val de Seine",
+    "roles": [
+      {
+        "label": "Les Écologistes de Melun Val de Seine"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0006",
+    "type": "organization",
+    "name": "Lou Welgrym",
+    "short_name": "Lou Welgrym",
+    "description": "Secrétaire générale de Data for Good",
+    "roles": [
+      {
+        "label": "Secrétaire générale de Data for Good"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0007",
+    "type": "person",
+    "name": "Anne-Laure Ligozat",
+    "short_name": "Anne-Laure Ligozat",
+    "description": "Professeure au LISN",
+    "roles": [
+      {
+        "label": "Professeure au LISN"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0008",
+    "type": "person",
+    "name": "Marie Garin",
+    "short_name": "Marie Garin",
+    "description": "Chercheuse postdoctorante au CNRS",
+    "roles": [
+      {
+        "label": "Chercheuse postdoctorante au CNRS"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0009",
+    "type": "organization",
+    "name": "Marlène De Bank",
+    "short_name": "Marlène De Bank",
+    "description": "The Shift Project",
+    "roles": [
+      {
+        "label": "The Shift Project"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0010",
+    "type": "person",
+    "name": "Ophélie Coelho",
+    "short_name": "Ophélie Coelho",
+    "description": "Chercheuse à l’IRIS",
+    "roles": [
+      {
+        "label": "Chercheuse à l’IRIS"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0011",
+    "type": "person",
+    "name": "Irénée Régnauld",
+    "short_name": "Irénée Régnauld",
+    "description": "Doctorant en sociologie",
+    "roles": [
+      {
+        "label": "Doctorant en sociologie"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0012",
+    "type": "organization",
+    "name": "Olivier Petitjean",
+    "short_name": "Olivier Petitjean",
+    "description": "Analyste à l’Observatoire des multinationales",
+    "roles": [
+      {
+        "label": "Analyste à l’Observatoire des multinationales"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0013",
+    "type": "person",
+    "name": "Nadia Salhi",
+    "short_name": "Nadia Salhi",
+    "description": "Déléguée syndicale CGT chez STMicroelectronics",
+    "roles": [
+      {
+        "label": "Déléguée syndicale CGT chez STMicroelectronics"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0014",
+    "type": "person",
+    "name": "Laurence Allard",
+    "short_name": "Laurence Allard",
+    "description": "Sociologue des usages du numérique",
+    "roles": [
+      {
+        "label": "Sociologue des usages du numérique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0015",
+    "type": "person",
+    "name": "Pauline Denis",
+    "short_name": "Pauline Denis",
+    "description": "Ingénieure au Shift Project",
+    "roles": [
+      {
+        "label": "Ingénieure au Shift Project"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0016",
+    "type": "person",
+    "name": "Habitants Fernique",
+    "short_name": "Habitants Fernique",
+    "description": "Habitants de Fouju",
+    "roles": [
+      {
+        "label": "Habitants de Fouju"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0017",
+    "type": "organization",
+    "name": "Christine Scialom",
+    "short_name": "Christine Scialom",
+    "description": "Propriétaire foncière locale",
+    "roles": [
+      {
+        "label": "Propriétaire foncière locale"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0018",
+    "type": "organization",
+    "name": "Maud",
+    "short_name": "Maud",
+    "description": "Maraîchère biologique",
+    "roles": [
+      {
+        "label": "Maraîchère biologique"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0019",
+    "type": "person",
+    "name": "Marie-Paule Direur",
+    "short_name": "Marie-Paule Direur",
+    "description": "Habitante mobilisée au Bourget",
+    "roles": [
+      {
+        "label": "Habitante mobilisée au Bourget"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0020",
+    "type": "person",
+    "name": "Arnaud Saint-Martin",
+    "short_name": "Arnaud Saint-Martin",
+    "description": "Député LFI de Seine-et-Marne",
+    "roles": [
+      {
+        "label": "Député LFI de Seine-et-Marne"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0021",
+    "type": "person",
+    "name": "Marianne Margaté",
+    "short_name": "Marianne Margaté",
+    "description": "Sénatrice communiste de Seine-et-Marne",
+    "roles": [
+      {
+        "label": "Sénatrice communiste de Seine-et-Marne"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0022",
+    "type": "person",
+    "name": "Stéphanie Le Meur",
+    "short_name": "Stéphanie Le Meur",
+    "description": "Maire-adjointe socialiste de Moissy-Cramayel",
+    "roles": [
+      {
+        "label": "Maire-adjointe socialiste de Moissy-Cramayel"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0023",
+    "type": "organization",
+    "name": "Jean-Luc Mélenchon",
+    "short_name": "Jean-Luc Mélenchon",
+    "description": "Figure nationale LFI",
+    "roles": [
+      {
+        "label": "Figure nationale LFI"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0024",
+    "type": "organization",
+    "name": "Députés socialistes",
+    "short_name": "Députés socialistes",
+    "description": "Groupe socialiste à l’Assemblée nationale",
+    "roles": [
+      {
+        "label": "Groupe socialiste à l’Assemblée nationale"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0025",
+    "type": "person",
+    "name": "Jonathan Wochenmayer",
+    "short_name": "Jonathan Wochenmayer",
+    "description": "Maire sans étiquette de Fouju",
+    "roles": [
+      {
+        "label": "Maire sans étiquette de Fouju"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0026",
+    "type": "person",
+    "name": "Jean-Louis Thiériot",
+    "short_name": "Jean-Louis Thiériot",
+    "description": "Député LR de Seine-et-Marne",
+    "roles": [
+      {
+        "label": "Député LR de Seine-et-Marne"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0027",
+    "type": "person",
+    "name": "Christian Poteau",
+    "short_name": "Christian Poteau",
+    "description": "Président de la CC Brie des Rivières et Châteaux",
+    "roles": [
+      {
+        "label": "Président de la CC Brie des Rivières et Châteaux"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0028",
+    "type": "person",
+    "name": "Hervé Jeannin",
+    "short_name": "Hervé Jeannin",
+    "description": "Maire de Crisenoy",
+    "roles": [
+      {
+        "label": "Maire de Crisenoy"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0029",
+    "type": "person",
+    "name": "Aymeric Durox",
+    "short_name": "Aymeric Durox",
+    "description": "Sénateur RN de Seine-et-Marne",
+    "roles": [
+      {
+        "label": "Sénateur RN de Seine-et-Marne"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0030",
+    "type": "person",
+    "name": "Denis Larghero",
+    "short_name": "Denis Larghero",
+    "description": "Maire UDI de Meudon",
+    "roles": [
+      {
+        "label": "Maire UDI de Meudon"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0031",
+    "type": "person",
+    "name": "Emmanuel Macron",
+    "short_name": "Emmanuel Macron",
+    "description": "Président de la République",
+    "roles": [
+      {
+        "label": "Président de la République"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0032",
+    "type": "person",
+    "name": "Valérie Pécresse",
+    "short_name": "Valérie Pécresse",
+    "description": "Présidente de la Région Île-de-France",
+    "roles": [
+      {
+        "label": "Présidente de la Région Île-de-France"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0033",
+    "type": "organization",
+    "name": "FNE 77",
+    "short_name": "FNE 77",
+    "description": "Association environnementale départementale",
+    "roles": [
+      {
+        "label": "Association environnementale départementale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0034",
+    "type": "organization",
+    "name": "FNE IDF",
+    "short_name": "FNE IDF",
+    "description": "Fédération régionale environnementale",
+    "roles": [
+      {
+        "label": "Fédération régionale environnementale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0035",
+    "type": "organization",
+    "name": "Les Soulèvements de la Terre",
+    "short_name": "Les Soulèvements de la Terre",
+    "description": "Mouvement écologiste national",
+    "roles": [
+      {
+        "label": "Mouvement écologiste national"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0036",
+    "type": "organization",
+    "name": "Confédération paysanne 77",
+    "short_name": "Confédération paysanne 77",
+    "description": "Syndicat agricole départemental",
+    "roles": [
+      {
+        "label": "Syndicat agricole départemental"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0037",
+    "type": "organization",
+    "name": "Confédération paysanne IDF",
+    "short_name": "Confédération paysanne IDF",
+    "description": "Structure syndicale régionale",
+    "roles": [
+      {
+        "label": "Structure syndicale régionale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0038",
+    "type": "organization",
+    "name": "LPO 77",
+    "short_name": "LPO 77",
+    "description": "Association de protection de la biodiversité",
+    "roles": [
+      {
+        "label": "Association de protection de la biodiversité"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0039",
+    "type": "organization",
+    "name": "Écologistes Melun Val de Seine",
+    "short_name": "Écologistes Melun Val de Seine",
+    "description": "Structure politique écologiste locale",
+    "roles": [
+      {
+        "label": "Structure politique écologiste locale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0040",
+    "type": "organization",
+    "name": "Solidaires",
+    "short_name": "Solidaires",
+    "description": "Union syndicale",
+    "roles": [
+      {
+        "label": "Union syndicale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0041",
+    "type": "organization",
+    "name": "Solidaires Informatique",
+    "short_name": "Solidaires Informatique",
+    "description": "Syndicat sectoriel",
+    "roles": [
+      {
+        "label": "Syndicat sectoriel"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0042",
+    "type": "organization",
+    "name": "Solidaires Essonne",
+    "short_name": "Solidaires Essonne",
+    "description": "Structure syndicale locale",
+    "roles": [
+      {
+        "label": "Structure syndicale locale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0043",
+    "type": "organization",
+    "name": "Alliance écologique et sociale",
+    "short_name": "Alliance écologique et sociale",
+    "description": "Coalition syndicats-associations",
+    "roles": [
+      {
+        "label": "Coalition syndicats-associations"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0044",
+    "type": "organization",
+    "name": "Attac",
+    "short_name": "Attac",
+    "description": "Association altermondialiste",
+    "roles": [
+      {
+        "label": "Association altermondialiste"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0045",
+    "type": "organization",
+    "name": "Les Amis de la Terre",
+    "short_name": "Les Amis de la Terre",
+    "description": "Association environnementale nationale",
+    "roles": [
+      {
+        "label": "Association environnementale nationale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0046",
+    "type": "organization",
+    "name": "Extinction Rebellion",
+    "short_name": "Extinction Rebellion",
+    "description": "Collectif écologiste",
+    "roles": [
+      {
+        "label": "Collectif écologiste"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0047",
+    "type": "organization",
+    "name": "Stop Campus IA",
+    "short_name": "Stop Campus IA",
+    "description": "Collectif d’opposition locale",
+    "roles": [
+      {
+        "label": "Collectif d’opposition locale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0048",
+    "type": "person",
+    "name": "Thibaud Desfossés",
+    "short_name": "Thibaud Desfossés",
+    "description": "Président de Campus IA / directeur chez MGX",
+    "roles": [
+      {
+        "label": "Président de Campus IA / directeur chez MGX"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0049",
+    "type": "organization",
+    "name": "MGX",
+    "short_name": "MGX",
+    "description": "Fonds d’investissement souverain des Émirats arabes unis",
+    "roles": [
+      {
+        "label": "Fonds d’investissement souverain des Émirats arabes unis"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0050",
+    "type": "organization",
+    "name": "Bpifrance",
+    "short_name": "Bpifrance",
+    "description": "Banque publique d’investissement française",
+    "roles": [
+      {
+        "label": "Banque publique d’investissement française"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0051",
+    "type": "organization",
+    "name": "Eiffage Énergie Systèmes",
+    "short_name": "Eiffage Énergie Systèmes",
+    "description": "Groupe industriel",
+    "roles": [
+      {
+        "label": "Groupe industriel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0052",
+    "type": "organization",
+    "name": "Nvidia",
+    "short_name": "Nvidia",
+    "description": "Entreprise technologique",
+    "roles": [
+      {
+        "label": "Entreprise technologique"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0053",
+    "type": "organization",
+    "name": "Mistral AI",
+    "short_name": "Mistral AI",
+    "description": "Entreprise française d’intelligence artificielle",
+    "roles": [
+      {
+        "label": "Entreprise française d’intelligence artificielle"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0054",
+    "type": "organization",
+    "name": "École Polytechnique",
+    "short_name": "École Polytechnique",
+    "description": "Établissement académique",
+    "roles": [
+      {
+        "label": "Établissement académique"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0055",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau de transport d’électricité",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau de transport d’électricité"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0056",
+    "type": "organization",
+    "name": "MRAe",
+    "short_name": "MRAe",
+    "description": "Mission régionale d’autorité environnementale",
+    "roles": [
+      {
+        "label": "Mission régionale d’autorité environnementale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0057",
+    "type": "organization",
+    "name": "L’Européenne",
+    "short_name": "L’Européenne",
+    "description": "Ancien porteur du projet logistique",
+    "roles": [
+      {
+        "label": "Ancien porteur du projet logistique"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0058",
+    "type": "organization",
+    "name": "Commissaire-enquêteur",
+    "short_name": "Commissaire-enquêteur",
+    "description": "Autorité indépendante",
+    "roles": [
+      {
+        "label": "Autorité indépendante"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0059",
+    "type": "organization",
+    "name": "Printemps des luttes locales",
+    "short_name": "Printemps des luttes locales",
+    "description": "Réseau militant",
+    "roles": [
+      {
+        "label": "Réseau militant"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0060",
+    "type": "organization",
+    "name": "Le Nuage était sous nos pieds",
+    "short_name": "Le Nuage était sous nos pieds",
+    "description": "Collectif techno-critique marseillais",
+    "roles": [
+      {
+        "label": "Collectif techno-critique marseillais"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0061",
+    "type": "organization",
+    "name": "Collectif du Bourget",
+    "short_name": "Collectif du Bourget",
+    "description": "Collectif local",
+    "roles": [
+      {
+        "label": "Collectif local"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0062",
+    "type": "organization",
+    "name": "Collectif de Vitry-sur-Seine",
+    "short_name": "Collectif de Vitry-sur-Seine",
+    "description": "Collectif citoyen",
+    "roles": [
+      {
+        "label": "Collectif citoyen"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0063",
+    "type": "organization",
+    "name": "Collectif de Wissous",
+    "short_name": "Collectif de Wissous",
+    "description": "Collectif francilien",
+    "roles": [
+      {
+        "label": "Collectif francilien"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0064",
+    "type": "organization",
+    "name": "La Quadrature du Net",
+    "short_name": "La Quadrature du Net",
+    "description": "Association de défense des libertés numériques",
+    "roles": [
+      {
+        "label": "Association de défense des libertés numériques"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0065",
+    "type": "organization",
+    "name": "Hiatus",
+    "short_name": "Hiatus",
+    "description": "Collectif d’analyse techno-critique",
+    "roles": [
+      {
+        "label": "Collectif d’analyse techno-critique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0066",
+    "type": "organization",
+    "name": "STopMicro",
+    "short_name": "STopMicro",
+    "description": "Collectif techno-critique grenoblois",
+    "roles": [
+      {
+        "label": "Collectif techno-critique grenoblois"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0067",
+    "type": "person",
+    "name": "Ersilia Soudais",
+    "short_name": "Ersilia Soudais",
+    "description": "Députée LFI-NFP",
+    "roles": [
+      {
+        "label": "Députée LFI-NFP"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0068",
+    "type": "person",
+    "name": "Cyrielle Chatelain",
+    "short_name": "Cyrielle Chatelain",
+    "description": "Députée écologiste",
+    "roles": [
+      {
+        "label": "Députée écologiste"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0069",
+    "type": "organization",
+    "name": "Valérie Masson-Delmotte",
+    "short_name": "Valérie Masson-Delmotte",
+    "description": "Paléoclimatologue",
+    "roles": [
+      {
+        "label": "Paléoclimatologue"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0070",
+    "type": "person",
+    "name": "Jean Guiony",
+    "short_name": "Jean Guiony",
+    "description": "Urbaniste",
+    "roles": [
+      {
+        "label": "Urbaniste"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0071",
+    "type": "person",
+    "name": "Eveline Biaggini",
+    "short_name": "Eveline Biaggini",
+    "description": "Habitante",
+    "roles": [
+      {
+        "label": "Habitante"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0072",
+    "type": "person",
+    "name": "Giuliano Del Negro",
+    "short_name": "Giuliano Del Negro",
+    "description": "Habitant",
+    "roles": [
+      {
+        "label": "Habitant"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0073",
+    "type": "person",
+    "name": "Laurent",
+    "short_name": "Laurent",
+    "description": "Habitant",
+    "roles": [
+      {
+        "label": "Habitant"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0074",
+    "type": "person",
+    "name": "Jean-Noël Péché",
+    "short_name": "Jean-Noël Péché",
+    "description": "Apiculteur",
+    "roles": [
+      {
+        "label": "Apiculteur"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0075",
+    "type": "organization",
+    "name": "Maxime Colin",
+    "short_name": "Maxime Colin",
+    "description": "Membre de FNE Île-de-France",
+    "roles": [
+      {
+        "label": "Membre de FNE Île-de-France"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0076",
+    "type": "organization",
+    "name": "Pauline Isambert",
+    "short_name": "Pauline Isambert",
+    "description": "Élue de la Confédération paysanne Île-de-France",
+    "roles": [
+      {
+        "label": "Élue de la Confédération paysanne Île-de-France"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0077",
+    "type": "organization",
+    "name": "Céline Malaisé",
+    "short_name": "Céline Malaisé",
+    "description": "Conseillère régionale d’Île-de-France",
+    "roles": [
+      {
+        "label": "Conseillère régionale d’Île-de-France"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0078",
+    "type": "organization",
+    "name": "Pierre Ory",
+    "short_name": "Pierre Ory",
+    "description": "Préfet de Seine-et-Marne",
+    "roles": [
+      {
+        "label": "Préfet de Seine-et-Marne"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0079",
+    "type": "person",
+    "name": "Evelyne Michel",
+    "short_name": "Evelyne Michel",
+    "description": "Riveraine du hameau des Bordes à Crisenoy",
+    "roles": [
+      {
+        "label": "Riveraine du hameau des Bordes à Crisenoy"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0080",
+    "type": "person",
+    "name": "Manuel Sirera",
+    "short_name": "Manuel Sirera",
+    "description": "Maire de Crisenoy",
+    "roles": [
+      {
+        "label": "Maire de Crisenoy"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0081",
+    "type": "person",
+    "name": "Michael Reffay",
+    "short_name": "Michael Reffay",
+    "description": "Délégué général de France Datacenter",
+    "roles": [
+      {
+        "label": "Délégué général de France Datacenter"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0082",
+    "type": "organization",
+    "name": "France Datacenter",
+    "short_name": "France Datacenter",
+    "description": "Organisation professionnelle de la filière",
+    "roles": [
+      {
+        "label": "Organisation professionnelle de la filière"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0083",
+    "type": "organization",
+    "name": "Terres de luttes",
+    "short_name": "Terres de luttes",
+    "description": "Réseau national de convergence des mobilisations",
+    "roles": [
+      {
+        "label": "Réseau national de convergence des mobilisations"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0084",
+    "type": "organization",
+    "name": "Data Center Watch",
+    "short_name": "Data Center Watch",
+    "description": "Institut de suivi des centres de données",
+    "roles": [
+      {
+        "label": "Institut de suivi des centres de données"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0085",
+    "type": "organization",
+    "name": "The Shift Project",
+    "short_name": "The Shift Project",
+    "description": "Think tank",
+    "roles": [
+      {
+        "label": "Think tank"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0086",
+    "type": "organization",
+    "name": "Observatoire des multinationales",
+    "short_name": "Observatoire des multinationales",
+    "description": "Plateforme d’investigation",
+    "roles": [
+      {
+        "label": "Plateforme d’investigation"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  }
+]

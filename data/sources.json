@@ -1,0 +1,78 @@
+[
+  {
+    "id": "source_0001",
+    "title": "Le Chiffon",
+    "publisher": "Le Chiffon",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0002",
+    "title": "Actualité des luttes",
+    "publisher": "Actualité des luttes",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0003",
+    "title": "mesinfos.fr",
+    "publisher": "mesinfos.fr",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0004",
+    "title": "L’Humanité",
+    "publisher": "L’Humanité",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0005",
+    "title": "Observatoire des multinationales",
+    "publisher": "Observatoire des multinationales",
+    "url": null,
+    "source_type": "investigation",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0006",
+    "title": "TF1 Info, reportage du 18 septembre 2026",
+    "publisher": "TF1 Info",
+    "url": null,
+    "source_type": "press",
+    "published_at": "2026-09-18",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0007",
+    "title": "France Inter, chronique du 16 septembre 2026",
+    "publisher": "Radio France",
+    "url": null,
+    "source_type": "radio",
+    "published_at": "2026-09-16",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0008",
+    "title": "Terres de luttes, publication du 16 septembre 2026",
+    "publisher": "Terres de luttes",
+    "url": null,
+    "source_type": "publication",
+    "published_at": "2026-09-16",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0009",
+    "title": "France 3 Paris Île-de-France, article du 27 août 2026",
+    "publisher": "France Télévisions",
+    "url": null,
+    "source_type": "press",
+    "published_at": "2026-08-27",
+    "status": "url_to_add"
+  }
+]

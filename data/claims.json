@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "claim_0001",
+    "subject_id": "actor_0001",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce le caractère hors norme du projet, l’artificialisation accélérée, les risques de pollution PFAS et la procédure accélérée.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0002",
+    "subject_id": "actor_0002",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "A déposé une contribution officielle à l’enquête publique exigeant une nouvelle réunion publique et une rallonge des délais.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0003",
+    "subject_id": "actor_0003",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Opposée à la démesure et au flou entourant les consommations d’eau et le foncier.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0004",
+    "subject_id": "actor_0004",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Exige un moratoire immédiat et cherche à faire du dossier un enjeu national.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0005",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Alerte la population locale sur les impacts du projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0006",
+    "subject_id": "actor_0006",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique la dérégulation administrative et la réduction des capacités de recours.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0007",
+    "subject_id": "actor_0007",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Déplore le manque de concertation publique et de débat national sur les usages du calcul.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0008",
+    "subject_id": "actor_0008",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Juge le dimensionnement déconnecté des besoins réels et spéculatif.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0009",
+    "subject_id": "actor_0009",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Alerte sur la concurrence électrique et les arbitrages au détriment de la transition énergétique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0010",
+    "subject_id": "actor_0010",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Estime que les processus de concertation arrivent trop tardivement.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0011",
+    "subject_id": "actor_0011",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique le gigantisme matériel et la dépendance technologique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0012",
+    "subject_id": "actor_0012",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce la soumission des politiques publiques aux intérêts financiers étrangers.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0013",
+    "subject_id": "actor_0013",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Conteste les promesses d’emplois en s’appuyant sur des précédents industriels.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0014",
+    "subject_id": "actor_0014",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Souligne la convergence citoyenne autour de la lutte de Fouju.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0015",
+    "subject_id": "actor_0015",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce un découpage juridique visant selon elle à contourner les réglementations.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0016",
+    "subject_id": "actor_0016",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénoncent une infrastructure imposée sans consultation préalable.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0017",
+    "subject_id": "actor_0017",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Exprime un sentiment de déclassement territorial.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0018",
+    "subject_id": "actor_0018",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S’inquiète des risques de pollution et de contamination des sols par les PFAS.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0019",
+    "subject_id": "actor_0019",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Incarne les passerelles entre contestations franciliennes de centres de données.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0020",
+    "subject_id": "actor_0020",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce un projet inutile, énergivore et opaque.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0021",
+    "subject_id": "actor_0021",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "A déposé une question écrite critiquant un contournement réglementaire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0022",
+    "subject_id": "actor_0022",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique les contraintes financières poussant les communes à accepter le projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0023",
+    "subject_id": "actor_0023",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique le modèle macro-économique du projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0024",
+    "subject_id": "actor_0024",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dépose des amendements contre la simplification administrative sans contreparties.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0025",
+    "subject_id": "actor_0025",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutient fortement le projet au regard des recettes fiscales attendues.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0025"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0026",
+    "subject_id": "actor_0026",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutient l’infrastructure au nom de la souveraineté technologique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0026"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0027",
+    "subject_id": "actor_0027",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Plutôt favorable ou rassuré, avec vigilance sur l’eau, la mobilité et l’économie locale.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0027"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0028",
+    "subject_id": "actor_0028",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "S’inquiète des hauteurs, du paysage, des inondations et du voisinage de la prison.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0028"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0029",
+    "subject_id": "actor_0029",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Favorable par pragmatisme compétitif territorial.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0030",
+    "subject_id": "actor_0030",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend les centres de données comme leviers d’attractivité économique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0031",
+    "subject_id": "actor_0031",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Promeut activement l’expansion du projet dans le cadre de Choose France.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0032",
+    "subject_id": "actor_0032",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Aucune position publique directe établie dans la base.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0033",
+    "subject_id": "actor_0033",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Pivot technique de la contestation locale.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0033"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0034",
+    "subject_id": "actor_0034",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Impliquée dans l’analyse juridique des implantations de centres de données.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0034"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0035",
+    "subject_id": "actor_0035",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Relais militant actif sur le terrain.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0036",
+    "subject_id": "actor_0036",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Défend les terres arables et la souveraineté alimentaire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0037",
+    "subject_id": "actor_0037",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mobilisée contre l’accaparement et la pression foncière.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0038",
+    "subject_id": "actor_0038",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Membre de la coalition Stop Campus IA.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0039",
+    "subject_id": "actor_0039",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Représentée notamment par Dorothée Villemaux.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0040",
+    "subject_id": "actor_0040",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mobilisée dans la contestation citoyenne et environnementale.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0041",
+    "subject_id": "actor_0041",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Apporte une expertise technique critique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0041"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0042",
+    "subject_id": "actor_0042",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Mobilisée en faveur d’un moratoire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0042"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0043",
+    "subject_id": "actor_0043",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Exige l’arrêt des simplifications administratives sans garanties.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0043"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0044",
+    "subject_id": "actor_0044",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Présente lors de mobilisations citoyennes.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0045",
+    "subject_id": "actor_0045",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Intégrée à la coalition de contestation.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0045"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0046",
+    "subject_id": "actor_0046",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Engagé dans les actions de terrain à Champeaux.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0047",
+    "subject_id": "actor_0047",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Structure la contestation et prépare des recours.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0048",
+    "subject_id": "actor_0048",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Invoque l’indépendance de calcul, avec des réserves liées au secret des affaires.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0048"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0049",
+    "subject_id": "actor_0049",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Actionnaire majoritaire annoncé à 70 %.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0050",
+    "subject_id": "actor_0050",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Actionnaire annoncé à 25 %.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0051",
+    "subject_id": "actor_0051",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Attributaire annoncé d’un marché de sous-station haute tension.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0051"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0052",
+    "subject_id": "actor_0052",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Partenaire et fournisseur d’infrastructures de calcul.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0052"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0053",
+    "subject_id": "actor_0053",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Membre annoncé du consortium.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0053"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0054",
+    "subject_id": "actor_0054",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Partenaire annoncé d’un pôle académique intégré au site.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0054"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0055",
+    "subject_id": "actor_0055",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Prévoit une montée progressive du raccordement électrique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0055"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0056",
+    "subject_id": "actor_0056",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Émet des alertes environnementales sur le projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0056"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0057",
+    "subject_id": "actor_0057",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Bénéficiaire annoncé d’un protocole transactionnel.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0057"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0058",
+    "subject_id": "actor_0058",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "A rendu un avis défavorable sur l’ancien projet logistique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0058"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0059",
+    "subject_id": "actor_0059",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "A encadré un événement protestataire contre le projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0059"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0060",
+    "subject_id": "actor_0060",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Référence nationale de lutte techno-critique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0060"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0061",
+    "subject_id": "actor_0061",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Établit des passerelles de solidarité avec Fouju.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0061"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0062",
+    "subject_id": "actor_0062",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Engagé dans la contestation francilienne des infrastructures numériques.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0062"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0063",
+    "subject_id": "actor_0063",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Opposé à un autre projet de centre de données.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0063"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0064",
+    "subject_id": "actor_0064",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Réclame un moratoire d’urbanisme sur les grands centres de données.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0064"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0065",
+    "subject_id": "actor_0065",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Allié de La Quadrature du Net.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0065"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0066",
+    "subject_id": "actor_0066",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Référence de mobilisation contre les industries numériques de forte puissance.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0066"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0067",
+    "subject_id": "actor_0067",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce une aberration écologique et un impact territorial démesuré.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0067"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0068",
+    "subject_id": "actor_0068",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Appelle à un moratoire national sur les centres de données.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0068"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0069",
+    "subject_id": "actor_0069",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Alerte sur les îlots de chaleur et les émissions de NOx.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0069"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0070",
+    "subject_id": "actor_0070",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Assimile le projet à un accaparement foncier menaçant l’agriculture.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0070"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0071",
+    "subject_id": "actor_0071",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S’oppose au gigantisme de l’infrastructure.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0071"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0072",
+    "subject_id": "actor_0072",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "S’inquiète de l’urbanisation et des nuisances de chantier.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0072"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0073",
+    "subject_id": "actor_0073",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutient le projet pour ses promesses économiques.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0073"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0074",
+    "subject_id": "actor_0074",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Déplore la perte de terres agricoles.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0074"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0075",
+    "subject_id": "actor_0075",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Dénonce l’accaparement des terres et les tensions sur l’électricité.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0075"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0076",
+    "subject_id": "actor_0076",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique l’artificialisation, le manque de concertation et un prélèvement en nappe allégué.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0076"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0077",
+    "subject_id": "actor_0077",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Critique le calendrier et se déclare prête à soutenir d’éventuels recours.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0077"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0078",
+    "subject_id": "actor_0078",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "A autorisé les premières infrastructures le 29 juillet 2026 selon la base.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0078"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0079",
+    "subject_id": "actor_0079",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Redoute le bruit, les nuisances visuelles et les risques de pollution.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0079"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0080",
+    "subject_id": "actor_0080",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Exprime une vigilance sur les impacts pour les habitants.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0080"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0081",
+    "subject_id": "actor_0081",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend le campus au nom de la souveraineté et du rapatriement des données.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0081"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0082",
+    "subject_id": "actor_0082",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutient les infrastructures nationales de calcul et de stockage.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0082"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0083",
+    "subject_id": "actor_0083",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Intègre Fouju dans une mobilisation nationale contre les mégaprojets.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0083"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0084",
+    "subject_id": "actor_0084",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Fournit des comparaisons internationales sur les oppositions locales.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0084"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  }
+]

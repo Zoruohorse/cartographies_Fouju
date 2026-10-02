@@ -1,0 +1,115 @@
+{
+  "categories": {
+    "all": {
+      "label": "Tous les acteurs",
+      "color": "#64748b"
+    },
+    "project": {
+      "label": "Projet central",
+      "color": "#0f172a"
+    },
+    "opposants": {
+      "label": "Opposants et experts",
+      "color": "#ef4444"
+    },
+    "elus-opp": {
+      "label": "Élus opposés ou critiques",
+      "color": "#8b5cf6"
+    },
+    "elus-fav": {
+      "label": "Élus favorables ou prudents",
+      "color": "#2563eb"
+    },
+    "orgs": {
+      "label": "Organisations et collectifs",
+      "color": "#10b981"
+    },
+    "porteurs": {
+      "label": "Porteurs et économie",
+      "color": "#312e81"
+    }
+  },
+  "stances": {
+    "all": {
+      "label": "Toutes les positions",
+      "color": "#64748b"
+    },
+    "opposed": {
+      "label": "Opposé ou critique",
+      "color": "#ef4444"
+    },
+    "favorable": {
+      "label": "Favorable ou soutien",
+      "color": "#22c55e"
+    },
+    "neutral": {
+      "label": "Prudent ou ambigu",
+      "color": "#f59e0b"
+    }
+  },
+  "certainty_levels": {
+    "high": {
+      "label": "Haute"
+    },
+    "medium": {
+      "label": "Moyenne"
+    },
+    "low": {
+      "label": "Faible"
+    }
+  },
+  "relation_types": {
+    "opposes": {
+      "label": "S’oppose à",
+      "directed": true
+    },
+    "supports": {
+      "label": "Soutient",
+      "directed": true
+    },
+    "position_on": {
+      "label": "Position prudente",
+      "directed": true
+    },
+    "member_of": {
+      "label": "Membre de",
+      "directed": true
+    },
+    "represents": {
+      "label": "Représente",
+      "directed": true
+    },
+    "coordinates_with": {
+      "label": "Coordonne avec",
+      "directed": false
+    },
+    "works_for": {
+      "label": "Travaille pour",
+      "directed": true
+    },
+    "contracts_with": {
+      "label": "Relation contractuelle",
+      "directed": true
+    },
+    "participates_in": {
+      "label": "Participe à",
+      "directed": true
+    },
+    "funded_by": {
+      "label": "Financé par",
+      "directed": true
+    },
+    "partnered_with": {
+      "label": "Partenariat",
+      "directed": false
+    },
+    "connected_by": {
+      "label": "Raccordé par",
+      "directed": true
+    },
+    "authorized_by": {
+      "label": "Autorisé par",
+      "directed": true
+    }
+  }
+}
