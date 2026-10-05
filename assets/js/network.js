@@ -5,7 +5,7 @@ svg.setAttribute('viewBox',`0 0 ${w} ${h}`);
 const g=document.createElementNS(ns,'g'),lg=document.createElementNS(ns,'g'),ng=document.createElementNS(ns,'g');g.append(lg,ng);svg.append(g);
 const active=new Set(Object.keys(d.taxonomy.categories).filter(x=>x!=='all'));
 const degree=id=>d.relations.filter(r=>r.source_id===id||r.target_id===id).length;
-const nodes=d.actors.map(a=>({...a,size:a.id==='project_chatearoux'?48:Math.min(28,18+degree(a.id)*1.15)}));
+const nodes=d.actors.map(a=>({...a,size:a.id==='project_Fouju'?48:Math.min(28,18+degree(a.id)*1.15)}));
 const byId=new Map(nodes.map(n=>[n.id,n]));
 const links=d.relations.map(r=>({...r,source:byId.get(r.source_id),target:byId.get(r.target_id)})).filter(r=>r.source&&r.target);
 function init(){const groups={};nodes.forEach(n=>(groups[n.categories[0]]??=[]).push(n));const entries=Object.entries(groups);entries.forEach(([key,arr],gi)=>arr.forEach((n,i)=>{if(n.id==='project_fouju'){n.x=w*.56;n.y=h*.5;n.fixed=true;return}const angle=gi*(Math.PI*2/Math.max(entries.length,1))+i*(Math.PI*2/Math.max(arr.length,1));const ring=235+gi*88;n.x=w*.56+Math.cos(angle)*ring;n.y=h*.5+Math.sin(angle)*ring}))}init();
