@@ -108,11 +108,15 @@
       "directed": false
     },
     "connected_by": {
-      "label": "Raccordé par",
+      "label": "Raccordement sous responsabilité de",
       "directed": true
     },
     "authorized_by": {
       "label": "Autorisé par",
+      "directed": true
+    },
+    "expertise_on": {
+      "label": "Avis réglementaire sur",
       "directed": true
     }
   }

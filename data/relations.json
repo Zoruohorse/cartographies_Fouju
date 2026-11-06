@@ -90,21 +90,6 @@
     "updated_at": "2026-11-06"
   },
   {
-    "id": "relation_qual_20261106_007",
-    "source_id": "actor_0008",
-    "target_id": "project_fouju",
-    "type": "position_on",
-    "summary": "Marie Garin (CNRS) met en question les hypothèses de demande future qui sous-tendent la multiplication des centres de calcul, dans un article consacré notamment à Fouju ; sa position personnelle sur l'autorisation du site n'est pas établie.",
-    "certainty": "medium",
-    "status": "documented",
-    "evidence_ids": [
-      "evidence_fouju_20261106_007"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-11-06"
-  },
-  {
     "id": "relation_qual_20261106_008",
     "source_id": "actor_0010",
     "target_id": "project_fouju",
@@ -144,21 +129,6 @@
     "status": "documented",
     "evidence_ids": [
       "evidence_fouju_20261106_011"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-11-06"
-  },
-  {
-    "id": "relation_qual_20261106_011",
-    "source_id": "actor_0015",
-    "target_id": "project_fouju",
-    "type": "position_on",
-    "summary": "Pauline Denis (The Shift Project) alerte sur une possible saturation des capacités de raccordement et les enjeux d'électrification ; elle exprime une analyse sectorielle, pas un recours propre à Fouju.",
-    "certainty": "medium",
-    "status": "documented",
-    "evidence_ids": [
-      "evidence_fouju_20261106_012"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -435,21 +405,6 @@
     "updated_at": "2026-11-06"
   },
   {
-    "id": "relation_qual_20261106_030",
-    "source_id": "actor_0044",
-    "target_id": "project_fouju",
-    "type": "position_on",
-    "summary": "Attac apparaît parmi les organisations présentes lors d'une mobilisation à Champeaux ; le reportage ne permet pas de lui imputer personnellement l'ensemble des griefs ni un recours déposé.",
-    "certainty": "medium",
-    "status": "documented",
-    "evidence_ids": [
-      "evidence_fouju_20261106_036"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-11-06"
-  },
-  {
     "id": "relation_qual_20261106_031",
     "source_id": "actor_0045",
     "target_id": "project_fouju",
@@ -459,21 +414,6 @@
     "status": "documented",
     "evidence_ids": [
       "evidence_fouju_20261106_037"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-11-06"
-  },
-  {
-    "id": "relation_qual_20261106_032",
-    "source_id": "actor_0046",
-    "target_id": "project_fouju",
-    "type": "position_on",
-    "summary": "Extinction Rebellion apparaît parmi les organisations citées pendant une mobilisation territoriale contre les grands centres de données ; aucun recours propre n'est identifié par ce reportage.",
-    "certainty": "medium",
-    "status": "documented",
-    "evidence_ids": [
-      "evidence_fouju_20261106_038"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -513,8 +453,8 @@
     "id": "relation_qual_20261106_035",
     "source_id": "actor_0049",
     "target_id": "project_fouju",
-    "type": "supports",
-    "summary": "MGX est l'un des quatre actionnaires identifiés par la CNDP de la société Campus IA, responsable du projet de datacenters à Fouju.",
+    "type": "participates_in",
+    "summary": "Participation au consortium Campus IA confirmée dans la fiche officielle CNDP; cela ne constitue pas une prise de position politique individuelle.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
@@ -528,8 +468,8 @@
     "id": "relation_qual_20261106_036",
     "source_id": "actor_0050",
     "target_id": "project_fouju",
-    "type": "supports",
-    "summary": "Bpifrance figure parmi les quatre actionnaires de la société Campus IA présentés sur la fiche institutionnelle de la CNDP.",
+    "type": "participates_in",
+    "summary": "Participation au consortium Campus IA confirmée dans la fiche officielle CNDP; cela ne constitue pas une prise de position politique individuelle.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
@@ -558,8 +498,8 @@
     "id": "relation_qual_20261106_038",
     "source_id": "actor_0052",
     "target_id": "project_fouju",
-    "type": "supports",
-    "summary": "Nvidia est identifié par la CNDP parmi les actionnaires de Campus IA ; cette participation au consortium ne prouve pas l'attribution de contrats de tous les équipements de calcul.",
+    "type": "participates_in",
+    "summary": "Participation au consortium Campus IA confirmée dans la fiche officielle CNDP; cela ne constitue pas une prise de position politique individuelle.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
@@ -573,8 +513,8 @@
     "id": "relation_qual_20261106_039",
     "source_id": "actor_0053",
     "target_id": "project_fouju",
-    "type": "supports",
-    "summary": "Mistral AI figure parmi les actionnaires de Campus IA, selon la CNDP ; la réponse ministérielle évoque un accès privilégié à ses capacités.",
+    "type": "participates_in",
+    "summary": "Participation au consortium Campus IA confirmée dans la fiche officielle CNDP; cela ne constitue pas une prise de position politique individuelle.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
@@ -586,10 +526,10 @@
   },
   {
     "id": "relation_qual_20261106_040",
-    "source_id": "actor_0055",
-    "target_id": "project_fouju",
+    "source_id": "project_fouju",
+    "target_id": "actor_0055",
     "type": "connected_by",
-    "summary": "RTE a contractualisé 700 MW avec Campus IA selon la réponse ministérielle du 30 juillet 2026 ; son rôle est celui du gestionnaire du réseau, pas une opinion politique de soutien.",
+    "summary": "RTE est co-maître d'ouvrage du raccordement électrique du campus ; 700 MW avaient été contractualisés selon la réponse ministérielle du 30 juillet 2026. Cela n'atteste pas d'un raccordement opérationnel.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
@@ -603,8 +543,8 @@
     "id": "relation_qual_20261106_041",
     "source_id": "actor_0056",
     "target_id": "project_fouju",
-    "type": "position_on",
-    "summary": "La MRAe a formulé des recommandations sur les impacts et besoins d'évaluation environnementale de Campus IA ; il s'agit d'un rôle d'expertise réglementaire, non d'une opposition militante.",
+    "type": "expertise_on",
+    "summary": "La Mission régionale d'autorité environnementale a formulé un avis et des recommandations concernant les enjeux environnementaux du campus, sans se substituer à l'autorité de décision.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
@@ -618,8 +558,8 @@
     "id": "relation_qual_20261106_042",
     "source_id": "actor_0058",
     "target_id": "project_fouju",
-    "type": "position_on",
-    "summary": "La commission d'enquête a rendu un avis favorable dans son rapport publié en juillet 2026 ; cet avis administratif n'est pas un militantisme de soutien au projet.",
+    "type": "expertise_on",
+    "summary": "La commission d'enquête publique a établi son rapport avec avis favorable, sans pour autant préjuger de l'issue des recours juridictionnels.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
@@ -766,10 +706,10 @@
   },
   {
     "id": "relation_qual_20261106_052",
-    "source_id": "actor_0078",
-    "target_id": "project_fouju",
+    "source_id": "project_fouju",
+    "target_id": "actor_0078",
     "type": "authorized_by",
-    "summary": "Le préfet Pierre Ory représente l'autorité ayant pris les arrêtés du 29 juillet 2026 ; une décision administrative ne suffit pas à déterminer son opinion personnelle.",
+    "summary": "Les autorisations environnementales et ICPE du 29 juillet 2026 ont été prises par le préfet de Seine-et-Marne; la signature d'arrêtés relève d'une compétence administrative.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [

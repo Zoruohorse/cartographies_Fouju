@@ -13,7 +13,7 @@
 - 87 nœuds initialement, 71 nœuds conservés ou ajoutés.
 - 21 fiches d'acteurs écartées faute de pertinence ou d'attribution suffisamment documentée dans ce lot.
 - 70 fiches de position/documentation, dont 16 sans opinion établie.
-- 81 liens qualifiés à preuve URL, au lieu des 114 liens antérieurement non étayés.
+- 77 liens qualifiés à preuve URL, au lieu des 114 liens antérieurement non étayés.
 - 87 preuves et 52 sources URL.
 - Nouveaux onglets : oppositions, vigilance et sources, chronologie.
 - Le moteur graphique du nuage et le gabarit de cartes d'origine sont préservés.
@@ -58,3 +58,6 @@ Les pages protégées et payantes ne sont pas considérées comme intégralement
 - Les 70 fiches documentaires se décomposent désormais en 29 oppositions/critiques explicites, 14 soutiens/participations au projet, 11 expressions de réserve ou prudence et 16 positions non établies.
 - Le validateur vérifie désormais obligatoirement les preuves source-url de toutes les fiches, relations et analyses.
 
+
+## Sens des relations vérifié
+Les arcs de raccordement et d'autorisation ont été réorientés du projet vers RTE ou le préfet. Les avis de la MRAe et de la commission d'enquête sont des relations d'expertise administrative, non des soutiens politiques. Quatre arcs de « position prudente » ont été supprimés pour des acteurs dont seule l'intervention sectorielle ou la présence à un événement était démontrée.
