@@ -476,8 +476,8 @@
     "publisher": "FNE Île-de-France",
     "url": "https://fne-idf.fr/communique-presse/dossier-de-presse-point-avec-la-presse-sur-les-actions-en-justice-du-collectif",
     "source_type": "institutional_or_primary",
-    "status": "qualified_url",
-    "verification": "source_publique_identifiee_et_verifiee",
+    "status": "qualified_url_article_non_rouvert",
+    "verification": "URL_de_publication_identifiee_texte_fourni_dans_Fouju_xlsx",
     "checked_at": "2026-11-06"
   },
   {

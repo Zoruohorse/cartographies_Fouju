@@ -1,7 +1,7 @@
 # Audit de qualification — Fouju — 6 novembre 2026
 
 ## Périmètre et méthode
-- Sources : nouveau classeur **Fouju.xlsx** (97 lignes, 96 ressources) et 11 références institutionnelles ou primaires.
+- Sources : nouveau classeur **Fouju.xlsx** (97 lignes, 96 ressources) et 11 références publiques complémentaires.
 - Suppression de toutes les 84 anciennes preuves « to_qualify » sans source et reconstruction des positions à partir des documents.
 - Suppression des relations du nuage sans preuves : 114 relations anciennes remplacées par un réseau qualifié.
 - Un acteur sans prise de position explicite n'est pas qualifié d'opposant par sa seule catégorie ; il reçoit « position non établie » si sa présence est documentée, ou il est retiré de la cartographie.
@@ -12,7 +12,7 @@
 ## Résultat
 - 87 nœuds initialement, 71 nœuds conservés ou ajoutés.
 - 21 fiches d'acteurs écartées faute de pertinence ou d'attribution suffisamment documentée dans ce lot.
-- 70 fiches de position/documentation, dont 8 sans opinion établie.
+- 70 fiches de position/documentation, dont 16 sans opinion établie.
 - 81 liens qualifiés à preuve URL, au lieu des 114 liens antérieurement non étayés.
 - 87 preuves et 52 sources URL.
 - Nouveaux onglets : oppositions, vigilance et sources, chronologie.
@@ -51,3 +51,10 @@
 
 ## Limites
 Les pages protégées et payantes ne sont pas considérées comme intégralement revérifiées; elles restent référencées comme extraits du fichier utilisateur. Le statut judiciaire des recours doit être suivi avec les décisions effectives.
+
+## Contrôle de catégorisation — 6 novembre
+- Huit positions initialement classées « neutres » ont été réévaluées en « position non établie » : Marie Garin, Pauline Denis, Attac, Extinction Rebellion, RTE, MRAe, Commission d'enquête et préfet Pierre Ory.
+- Le fait qu'un acteur soit cité dans un reportage ou qu'une institution exerce sa compétence ne constitue pas une prise de position politique.
+- Les 70 fiches documentaires se décomposent désormais en 29 oppositions/critiques explicites, 14 soutiens/participations au projet, 11 expressions de réserve ou prudence et 16 positions non établies.
+- Le validateur vérifie désormais obligatoirement les preuves source-url de toutes les fiches, relations et analyses.
+

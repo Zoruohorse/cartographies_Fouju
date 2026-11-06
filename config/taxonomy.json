@@ -43,11 +43,11 @@
       "color": "#22c55e"
     },
     "neutral": {
-      "label": "Prudent / critique / rôle institutionnel",
+      "label": "Réserves ou critiques sans rejet explicite",
       "color": "#f59e0b"
     },
     "unknown": {
-      "label": "Position non établie",
+      "label": "Position non établie (rôle documenté)",
       "color": "#94a3b8"
     }
   },

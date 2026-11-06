@@ -107,10 +107,10 @@
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Marie Garin (CNRS) met en question les hypothèses de demande future qui sous-tendent la multiplication des centres de calcul, dans un article consacré notamment à Fouju ; sa position personnelle sur l'autorisation du site n'est pas établie.",
-    "certainty": "medium",
-    "status": "documented_or_attributed",
+    "value": "unknown",
+    "summary": "Marie Garin (CNRS) met en question les hypothèses de demande future qui sous-tendent la multiplication des centres de calcul, dans un article consacré notamment à Fouju ; sa position personnelle sur l'autorisation du site n'est pas établie. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
       "evidence_fouju_20261106_007"
     ],
@@ -192,10 +192,10 @@
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Pauline Denis (The Shift Project) alerte sur une possible saturation des capacités de raccordement et les enjeux d'électrification ; elle exprime une analyse sectorielle, pas un recours propre à Fouju.",
-    "certainty": "medium",
-    "status": "documented_or_attributed",
+    "value": "unknown",
+    "summary": "Pauline Denis (The Shift Project) alerte sur une possible saturation des capacités de raccordement et les enjeux d'électrification ; elle exprime une analyse sectorielle, pas un recours propre à Fouju. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
       "evidence_fouju_20261106_012"
     ],
@@ -600,10 +600,10 @@
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Attac apparaît parmi les organisations présentes lors d'une mobilisation à Champeaux ; le reportage ne permet pas de lui imputer personnellement l'ensemble des griefs ni un recours déposé.",
-    "certainty": "medium",
-    "status": "documented_or_attributed",
+    "value": "unknown",
+    "summary": "Attac apparaît parmi les organisations présentes lors d'une mobilisation à Champeaux ; le reportage ne permet pas de lui imputer personnellement l'ensemble des griefs ni un recours déposé. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
       "evidence_fouju_20261106_036"
     ],
@@ -634,10 +634,10 @@
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Extinction Rebellion apparaît parmi les organisations citées pendant une mobilisation territoriale contre les grands centres de données ; aucun recours propre n'est identifié par ce reportage.",
-    "certainty": "medium",
-    "status": "documented_or_attributed",
+    "value": "unknown",
+    "summary": "Extinction Rebellion apparaît parmi les organisations citées pendant une mobilisation territoriale contre les grands centres de données ; aucun recours propre n'est identifié par ce reportage. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
       "evidence_fouju_20261106_038"
     ],
@@ -787,10 +787,10 @@
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "RTE a contractualisé 700 MW avec Campus IA selon la réponse ministérielle du 30 juillet 2026 ; son rôle est celui du gestionnaire du réseau, pas une opinion politique de soutien.",
-    "certainty": "high",
-    "status": "documented_or_attributed",
+    "value": "unknown",
+    "summary": "RTE a contractualisé 700 MW avec Campus IA selon la réponse ministérielle du 30 juillet 2026 ; son rôle est celui du gestionnaire du réseau, pas une opinion politique de soutien. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
       "evidence_fouju_20261106_047"
     ],
@@ -804,10 +804,10 @@
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "La MRAe a formulé des recommandations sur les impacts et besoins d'évaluation environnementale de Campus IA ; il s'agit d'un rôle d'expertise réglementaire, non d'une opposition militante.",
-    "certainty": "medium",
-    "status": "documented_or_attributed",
+    "value": "unknown",
+    "summary": "La MRAe a formulé des recommandations sur les impacts et besoins d'évaluation environnementale de Campus IA ; il s'agit d'un rôle d'expertise réglementaire, non d'une opposition militante. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
       "evidence_fouju_20261106_048"
     ],
@@ -821,10 +821,10 @@
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "La commission d'enquête a rendu un avis favorable dans son rapport publié en juillet 2026 ; cet avis administratif n'est pas un militantisme de soutien au projet.",
-    "certainty": "high",
-    "status": "documented_or_attributed",
+    "value": "unknown",
+    "summary": "La commission d'enquête a rendu un avis favorable dans son rapport publié en juillet 2026 ; cet avis administratif n'est pas un militantisme de soutien au projet. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
       "evidence_fouju_20261106_049"
     ],
@@ -991,10 +991,10 @@
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Le préfet Pierre Ory représente l'autorité ayant pris les arrêtés du 29 juillet 2026 ; une décision administrative ne suffit pas à déterminer son opinion personnelle.",
-    "certainty": "high",
-    "status": "documented_or_attributed",
+    "value": "unknown",
+    "summary": "Le préfet Pierre Ory représente l'autorité ayant pris les arrêtés du 29 juillet 2026 ; une décision administrative ne suffit pas à déterminer son opinion personnelle. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
       "evidence_fouju_20261106_059"
     ],

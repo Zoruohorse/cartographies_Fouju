@@ -45,3 +45,14 @@ Pour ajouter une deuxième preuve :
 1. ajouter un objet dans `data/evidence.json` ;
 2. ajouter ou réutiliser une source dans `data/sources.json` ;
 3. ajouter l’identifiant de preuve dans `evidence_ids` de la position ou relation.
+ 
+## Qualification documentaire — novembre 2026
+La cartographie est reconstruite à partir du lot `Fouju.xlsx` et de sources complémentaires publiques. Les positions sont **attribuées**, les relations du nuage sont **justifiées** et les liens des fiches ouvrent les sources documentaires. Une source journalistique fournie dans le classeur peut ne pas être directement consultable en ligne (paywall), ce qui est signalé dans `data/sources.json`.
+
+« Position non établie » signifie que la participation de l'acteur au dossier, ou son rôle, est documentée, **mais pas un avis individuel favorable ou opposé**. Le rôle administratif de RTE, de la MRAe, du préfet ou de la commission d'enquête n'implique aucune opinion politique personnelle.
+
+```bash
+python3 validate.py
+```
+
+Détails de l'audit et noms écartés : [AUDIT_QUALIFICATION_2026-11-06.md](AUDIT_QUALIFICATION_2026-11-06.md).
