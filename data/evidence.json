@@ -1,758 +1,1133 @@
 [
   {
-    "id": "evidence_0001",
-    "type": "quote",
-    "text": "Dénonce le caractère « hors norme » du projet.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0002",
-    "type": "summary",
-    "text": "Liée à FNE 77 dans la coordination locale.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0003",
-    "type": "summary",
-    "text": "Dénonce le flou entourant les consommations d’eau.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0004",
-    "type": "summary",
-    "text": "Soutien actif du réseau Solidaires Essonne.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0005",
-    "type": "summary",
-    "text": "Rattachée aux actions de terrain des Écologistes.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0006",
-    "type": "summary",
-    "text": "Connectée au réseau d’expertise de La Quadrature du Net.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0007",
-    "type": "summary",
-    "text": "Soutien académique à l’opposition.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0008",
-    "type": "summary",
-    "text": "Analyse critique du dimensionnement infrastructurel.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0009",
-    "type": "summary",
-    "text": "Rapport et alerte technique issus du Shift Project.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0010",
-    "type": "quote",
-    "text": "« La machine est déjà en route »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0011",
-    "type": "summary",
-    "text": "Analyse socio-technique de la dépendance.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0012",
-    "type": "summary",
-    "text": "Auteur d’analyses critiques pour l’Observatoire.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0013",
-    "type": "summary",
-    "text": "Tribune relayée dans L’Humanité.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0014",
-    "type": "summary",
-    "text": "Analyse de la mobilisation sur le terrain.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0015",
-    "type": "summary",
-    "text": "Dénonciation du contournement de classement Seveso.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0016",
-    "type": "quote",
-    "text": "« Est-ce qu’on a vraiment besoin de ce centre ? »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0017",
-    "type": "quote",
-    "text": "« On a l’impression d’être les poubelles de Paris »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0018",
-    "type": "summary",
-    "text": "Impact direct allégué sur son exploitation agricole.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0019",
-    "type": "summary",
-    "text": "Passerelles de solidarité avec le Collectif du Bourget.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0020",
-    "type": "quote",
-    "text": "« Fouju devient une cause nationale »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0021",
-    "type": "summary",
-    "text": "Action parlementaire concertée avec le bloc de gauche.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0022",
-    "type": "summary",
-    "text": "Soutien au bloc de gauche régional.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0023",
-    "type": "quote",
-    "text": "Dénonce une « colonie numérique ».",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0024",
-    "type": "summary",
-    "text": "Dépôt d’amendements législatifs.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0025",
-    "type": "summary",
-    "text": "Le projet pourrait générer plusieurs millions d’euros de recettes foncières.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0026",
-    "type": "summary",
-    "text": "Défense publique de la souveraineté technologique.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0027",
-    "type": "summary",
-    "text": "Vigilance affirmée sur l’eau et la mobilité.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0028",
-    "type": "summary",
-    "text": "Inquiétudes techniques sur l’urbanisme local.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0029",
-    "type": "summary",
-    "text": "Argument de pragmatisme compétitif territorial.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0030",
-    "type": "summary",
-    "text": "Défense de l’attractivité économique régionale.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0031",
-    "type": "quote",
-    "text": "Slogan « MGX choisit la France ».",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0032",
-    "type": "summary",
-    "text": "Absence de déclaration publique directe sur le projet.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0033",
-    "type": "summary",
-    "text": "Organisation d’une conférence de presse et dépôt de contributions.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0034",
-    "type": "summary",
-    "text": "Analyse juridique régionale.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0035",
-    "type": "summary",
-    "text": "Mobilisation annoncée de plus de 200 personnes le 24 mai.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0036",
-    "type": "summary",
-    "text": "Coordination avec FNE 77.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0037",
-    "type": "summary",
-    "text": "Action syndicale régionale.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0038",
-    "type": "summary",
-    "text": "Inventaires naturalistes contradictoires.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0039",
-    "type": "summary",
-    "text": "Lien avec les mobilisations locales.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0040",
-    "type": "summary",
-    "text": "Présence aux mobilisations.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0041",
-    "type": "summary",
-    "text": "Présence lors de points presse.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0042",
-    "type": "summary",
-    "text": "Soutien via William Elie.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0043",
-    "type": "summary",
-    "text": "Exigence formelle de moratoire.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0044",
-    "type": "summary",
-    "text": "Front commun avec Les Amis de la Terre.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0045",
-    "type": "summary",
-    "text": "Membre de la coalition élargie.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0046",
-    "type": "summary",
-    "text": "Front commun avec Les Soulèvements de la Terre.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0047",
-    "type": "summary",
-    "text": "Pétition annoncée à plus de 50 000 signatures.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0048",
-    "type": "summary",
-    "text": "Direction opérationnelle liée à MGX.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0049",
-    "type": "summary",
-    "text": "Partenariat stratégique dans le cadre de Choose France.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0050",
-    "type": "summary",
-    "text": "Co-investisseur stratégique étatique.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0051",
-    "type": "summary",
-    "text": "Contrat annoncé supérieur à 120 M€.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0052",
-    "type": "summary",
-    "text": "Participation annoncée à 4 %.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0053",
-    "type": "summary",
-    "text": "Participation exacte à vérifier.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0054",
-    "type": "summary",
-    "text": "Campus académique annoncé sur 60 à 65 ha.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0055",
-    "type": "summary",
-    "text": "Paliers annoncés de 240 MW puis 700 MW.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0056",
-    "type": "summary",
-    "text": "Avis environnemental formel à consulter.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0057",
-    "type": "summary",
-    "text": "Passé administratif documenté.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0058",
-    "type": "summary",
-    "text": "Avis antérieur motivé.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0059",
-    "type": "summary",
-    "text": "Encadrement direct de l’événement.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0060",
-    "type": "summary",
-    "text": "Connexion aux luttes nationales.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0061",
-    "type": "summary",
-    "text": "Lien avec Marie-Paule Direur.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0062",
-    "type": "summary",
-    "text": "Mobilisation francilienne transversale.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0063",
-    "type": "summary",
-    "text": "Mise en réseau des contestations.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0064",
-    "type": "summary",
-    "text": "Soutien expert en réseau.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0065",
-    "type": "summary",
-    "text": "Soutien analytique en réseau.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0066",
-    "type": "summary",
-    "text": "Inspiration pour les mouvements locaux.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0067",
-    "type": "quote",
-    "text": "« Ma circonscription est la poubelle de l’Île-de-France. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0068",
-    "type": "summary",
-    "text": "Critique l’appropriation des terres et de l’énergie.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0069",
-    "type": "summary",
-    "text": "Estimation d’une hausse de NOx à vérifier dans la source primaire.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0070",
-    "type": "quote",
-    "text": "« Pas de foncier, pas de datacenter, pas de plateforme. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0071",
-    "type": "quote",
-    "text": "« Écologiquement parlant, c’est une cata. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0072",
-    "type": "quote",
-    "text": "« On aimerait bien que Fouju reste comme ça. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0073",
-    "type": "quote",
-    "text": "« Ça va générer de l’argent et de l’emploi. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0074",
-    "type": "quote",
-    "text": "« Et là, on en crame 70 hectares pour rien. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0075",
-    "type": "quote",
-    "text": "« On n’a pas besoin d’accaparer autant de terres agricoles. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0076",
-    "type": "quote",
-    "text": "« Dans la deuxième phase du projet, ils vont quand même pomper dans la nappe phréatique. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0077",
-    "type": "summary",
-    "text": "Communiqué du 26 août mentionné dans la base.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0078",
-    "type": "summary",
-    "text": "Périmètre exact de l’arrêté à vérifier.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0079",
-    "type": "quote",
-    "text": "« Il sera vraiment juste derrière ma maison. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0080",
-    "type": "summary",
-    "text": "Sensibilité annoncée aux inquiétudes locales.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0081",
-    "type": "summary",
-    "text": "Argument de relocalisation des données.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0082",
-    "type": "summary",
-    "text": "Position portée par son délégué général.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0083",
-    "type": "summary",
-    "text": "Fouju cité parmi les terres promises au béton.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
-  },
-  {
-    "id": "evidence_0084",
-    "type": "summary",
-    "text": "Chiffres internationaux à vérifier dans la publication d’origine.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "id": "evidence_fouju_20261106_001",
+    "type": "documented_summary",
+    "text": "Jean-François Dupont (FNE 77) conteste publiquement la structuration réglementaire et participe au recours associatif contre les autorisations de Campus IA.",
+    "source_id": "source_fouju_lot_r10",
+    "source_ids": [
+      "source_fouju_lot_r10"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_002",
+    "type": "documented_summary",
+    "text": "Jane Buisson, vice-présidente de FNE 77, a participé à une démarche demandant une prolongation de l'enquête publique et une nouvelle réunion d'information.",
+    "source_id": "source_fouju_lot_r74",
+    "source_ids": [
+      "source_fouju_lot_r74"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_003",
+    "type": "documented_summary",
+    "text": "Aline Aurias, porte-parole de la Confédération paysanne, s'oppose à l'artificialisation agricole prévue et critique la dimension du projet.",
+    "source_id": "source_fouju_lot_r76",
+    "source_ids": [
+      "source_fouju_lot_r76"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_004",
+    "type": "documented_summary",
+    "text": "William Elie, intervenant pour l'Alliance écologique et sociale dans la mobilisation de Fouju, appelle à un moratoire sur ce type de grands projets.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_005",
+    "type": "documented_summary",
+    "text": "Dorothée Villemaux, représentante des Écologistes de Melun Val de Seine, appelle les habitants à s'informer sur les risques allégués et les caractéristiques de Campus IA ; aucune déclaration de refus total n'est citée ici.",
+    "source_id": "source_fouju_lot_r69",
+    "source_ids": [
+      "source_fouju_lot_r69"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_006",
+    "type": "documented_summary",
+    "text": "Lou Welgrym (Data for Good) critique les simplifications administratives et les restrictions des recours des citoyens, citant Fouju pour discuter de souveraineté ; il ne s'agit pas d'un recours judiciaire individuel.",
+    "source_id": "source_fouju_lot_r71",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_007",
+    "type": "documented_summary",
+    "text": "Marie Garin (CNRS) met en question les hypothèses de demande future qui sous-tendent la multiplication des centres de calcul, dans un article consacré notamment à Fouju ; sa position personnelle sur l'autorisation du site n'est pas établie.",
+    "source_id": "source_fouju_lot_r71",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_008",
+    "type": "documented_summary",
+    "text": "Ophélie Coelho interroge le sens de la souveraineté numérique et le calendrier de concertation de Campus IA ; ses propos ne constituent pas nécessairement une demande d'abandon.",
+    "source_id": "source_fouju_lot_r88",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_009",
+    "type": "documented_summary",
+    "text": "Irénée Régnauld cosigne avec Arnaud Saint-Martin une tribune contestant l'implantation agricole et le gigantisme du projet actuel.",
+    "source_id": "source_fouju_lot_r87",
+    "source_ids": [
+      "source_fouju_lot_r87"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_010",
+    "type": "documented_summary",
+    "text": "Olivier Petitjean, de l'Observatoire des multinationales, documente l'actionnariat de Campus IA ; cette enquête n'établit pas à elle seule son opposition personnelle au projet.",
+    "source_id": "source_fouju_lot_r54",
+    "source_ids": [
+      "source_fouju_lot_r54"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_011",
+    "type": "documented_summary",
+    "text": "Laurence Allard qualifie de mobilisation exemplaire le rassemblement local contre les grands data centers ; cette appréciation n'équivaudrait pas à une position sur chaque arrêté.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_012",
+    "type": "documented_summary",
+    "text": "Pauline Denis (The Shift Project) alerte sur une possible saturation des capacités de raccordement et les enjeux d'électrification ; elle exprime une analyse sectorielle, pas un recours propre à Fouju.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_013",
+    "type": "documented_summary",
+    "text": "Une famille de riverains de Fouju désignée comme famille Fernique suit les réunions publiques ; le passage documente leur participation, sans établir une position univoque.",
+    "source_id": "source_fouju_lot_r88",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_014",
+    "type": "documented_summary",
+    "text": "Christine Scialom, riveraine de Fouju, est citée parmi les participants assidus à la concertation de 2025 ; aucun avis explicite n'est attribué dans cette source.",
+    "source_id": "source_fouju_lot_r88",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_015",
+    "type": "documented_summary",
+    "text": "Une maraîchère prénommée Maud, identifiée seulement par un prénom d'emprunt, fait part de préoccupations sur d'éventuelles pollutions atmosphériques et PFAS ; le risque n'est pas constaté sur le site.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_016",
+    "type": "documented_summary",
+    "text": "Le député Arnaud Saint-Martin critique explicitement l'ampleur énergétique, foncière et économique de Campus IA, tout en précisant ne pas être opposé par principe à tous les centres de données.",
+    "source_id": "source_fouju_lot_r85",
+    "source_ids": [
+      "source_fouju_lot_r85"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_017",
+    "type": "documented_summary",
+    "text": "La sénatrice Marianne Margaté critique le modèle de territoire supportant les nuisances et s'inquiète du bruit, de la chaleur et de l'éclairage projetés.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_018",
+    "type": "documented_summary",
+    "text": "Stéphanie Le Meur souligne des pressions budgétaires pesant selon elle sur les décisions locales et craint que les habitants soient mis devant le fait accompli.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_019",
+    "type": "documented_summary",
+    "text": "Le maire de Fouju Jonathan Wochenmayer défend l'accueil du campus sur une zone qu'il juge relativement moins impactante et fait valoir les recettes possibles pour la commune.",
+    "source_id": "source_fouju_lot_r47",
+    "source_ids": [
+      "source_fouju_lot_r47"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_020",
+    "type": "documented_summary",
+    "text": "Le député Jean-Louis Thiériot qualifie l'arrivée de grands data centers en Seine-et-Marne d'excellente nouvelle et y voit un levier de souveraineté et d'économie.",
+    "source_id": "source_fouju_lot_r85",
+    "source_ids": [
+      "source_fouju_lot_r85"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_021",
+    "type": "documented_summary",
+    "text": "Christian Poteau, président de la CCBRC, qualifie Campus IA de beau projet et défend les retombées locales, tout en demandant l'absence de prélèvement dans la nappe.",
+    "source_id": "source_fouju_lot_r64",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_022",
+    "type": "documented_summary",
+    "text": "Hervé Jeannin, ancien maire de Crisenoy, a été battu aux municipales de mars 2026 par Manuel Sirera ; sa présence lors de réunions de 2025 ne permet pas d'établir une position actuelle.",
+    "source_id": "source_fouju_off_crisenoy",
+    "source_ids": [
+      "source_fouju_off_crisenoy"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_023",
+    "type": "documented_summary",
+    "text": "Le sénateur Aymeric Durox explique lors d'une réunion publique qu'il préfère l'implantation de Campus IA en France plutôt que dans un pays voisin.",
+    "source_id": "source_fouju_lot_r88",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_024",
+    "type": "documented_summary",
+    "text": "Emmanuel Macron a mis en avant Campus IA parmi les annonces d'investissements liées à l'intelligence artificielle et à Choose France ; il s'agit d'un soutien politique au programme.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_025",
+    "type": "documented_summary",
+    "text": "Valérie Pécresse intervient sur les enjeux régionaux des data centers et de la chaleur récupérable ; aucune prise de position personnelle explicite pour ou contre les autorisations de Fouju n'est démontrée par cette source.",
+    "source_id": "source_fouju_lot_r47",
+    "source_ids": [
+      "source_fouju_lot_r47"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_026",
+    "type": "documented_summary",
+    "text": "FNE Seine-et-Marne fait partie des associations requérantes ayant engagé six recours contre les décisions relatives à Fouju.",
+    "source_id": "source_fouju_lot_r10",
+    "source_ids": [
+      "source_fouju_lot_r10"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_027",
+    "type": "documented_summary",
+    "text": "FNE Île-de-France annonce et documente une série de recours visant les autorisations du Campus IA de Fouju.",
+    "source_id": "source_fouju_lot_r4",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_028",
+    "type": "documented_summary",
+    "text": "Les Soulèvements de la Terre sont mentionnés parmi les organisations de la mobilisation contre le campus de Fouju, notamment lors des initiatives publiques du collectif.",
+    "source_id": "source_fouju_lot_r69",
+    "source_ids": [
+      "source_fouju_lot_r69"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_029",
+    "type": "documented_summary",
+    "text": "La Confédération paysanne 77 figure parmi les organisations mobilisées localement contre l'artificialisation du projet de Fouju.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_030",
+    "type": "documented_summary",
+    "text": "La Confédération paysanne d'Île-de-France fait partie des organisations annonçant les recours juridictionnels contre le Campus IA.",
+    "source_id": "source_fouju_lot_r4",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_031",
+    "type": "documented_summary",
+    "text": "Des représentants de la LPO se sont associés aux contributions critiques et à la mobilisation sur les effets potentiels du campus pour les milieux naturels.",
+    "source_id": "source_fouju_lot_r64",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_032",
+    "type": "documented_summary",
+    "text": "Les Écologistes de Melun Val de Seine relaient les enjeux environnementaux du projet par la voix de Dorothée Villemaux, sans que ce seul article documente une procédure contentieuse propre à la structure.",
+    "source_id": "source_fouju_lot_r69",
+    "source_ids": [
+      "source_fouju_lot_r69"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_033",
+    "type": "documented_summary",
+    "text": "L'union Solidaires est citée parmi les syndicats participant à la mobilisation contre les grands centres de données, dont Fouju.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_034",
+    "type": "documented_summary",
+    "text": "Solidaires Informatique est cité parmi les organisations présentes à un rassemblement de sensibilisation contre les mégaprojets de données ; aucune action juridique particulière ne lui est attribuée.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_035",
+    "type": "documented_summary",
+    "text": "L'Alliance écologique et sociale intervient par la voix de William Elie lors de la mobilisation de Fouju et propose un moratoire national sur ce type d'implantations.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_036",
+    "type": "documented_summary",
+    "text": "Attac apparaît parmi les organisations présentes lors d'une mobilisation à Champeaux ; le reportage ne permet pas de lui imputer personnellement l'ensemble des griefs ni un recours déposé.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_037",
+    "type": "documented_summary",
+    "text": "Les Amis de la Terre figurent parmi les organisations ayant engagé des recours contre le projet de Campus IA.",
+    "source_id": "source_fouju_lot_r10",
+    "source_ids": [
+      "source_fouju_lot_r10"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_038",
+    "type": "documented_summary",
+    "text": "Extinction Rebellion apparaît parmi les organisations citées pendant une mobilisation territoriale contre les grands centres de données ; aucun recours propre n'est identifié par ce reportage.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_039",
+    "type": "documented_summary",
+    "text": "Le collectif Stop Campus IA publie une pétition, des ressources de mobilisation et des documents contestant explicitement l'installation de Campus IA à Fouju.",
+    "source_id": "source_fouju_off_stop",
+    "source_ids": [
+      "source_fouju_off_stop"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_040",
+    "type": "documented_summary",
+    "text": "Thibaud Desfossés, dirigeant du projet Campus IA, défend sa réalisation et sa justification industrielle et numérique dans un entretien public.",
+    "source_id": "source_fouju_lot_r48",
+    "source_ids": [
+      "source_fouju_lot_r48"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_041",
+    "type": "documented_summary",
+    "text": "MGX est l'un des quatre actionnaires identifiés par la CNDP de la société Campus IA, responsable du projet de datacenters à Fouju.",
+    "source_id": "source_fouju_off_cndp",
+    "source_ids": [
+      "source_fouju_off_cndp"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_042",
+    "type": "documented_summary",
+    "text": "Bpifrance figure parmi les quatre actionnaires de la société Campus IA présentés sur la fiche institutionnelle de la CNDP.",
+    "source_id": "source_fouju_off_cndp",
+    "source_ids": [
+      "source_fouju_off_cndp"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_043",
+    "type": "documented_summary",
+    "text": "Eiffage Énergie Systèmes est présenté comme entreprise retenue sur un volet d'infrastructures du projet Campus IA ; la participation économique documentée n'est pas un soutien politique.",
+    "source_id": "source_fouju_lot_r51",
+    "source_ids": [
+      "source_fouju_lot_r51"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_044",
+    "type": "documented_summary",
+    "text": "Nvidia est identifié par la CNDP parmi les actionnaires de Campus IA ; cette participation au consortium ne prouve pas l'attribution de contrats de tous les équipements de calcul.",
+    "source_id": "source_fouju_off_cndp",
+    "source_ids": [
+      "source_fouju_off_cndp"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_045",
+    "type": "documented_summary",
+    "text": "Mistral AI figure parmi les actionnaires de Campus IA, selon la CNDP ; la réponse ministérielle évoque un accès privilégié à ses capacités.",
+    "source_id": "source_fouju_off_cndp",
+    "source_ids": [
+      "source_fouju_off_cndp"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_046",
+    "type": "documented_summary",
+    "text": "L'École polytechnique est citée comme partenaire académique dans un article sur l'écosystème de Campus IA ; aucun avis institutionnel autonome sur les autorisations n'est étayé.",
+    "source_id": "source_fouju_lot_r58",
+    "source_ids": [
+      "source_fouju_lot_r58"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_047",
+    "type": "documented_summary",
+    "text": "RTE a contractualisé 700 MW avec Campus IA selon la réponse ministérielle du 30 juillet 2026 ; son rôle est celui du gestionnaire du réseau, pas une opinion politique de soutien.",
+    "source_id": "source_fouju_off_senat",
+    "source_ids": [
+      "source_fouju_off_senat"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_048",
+    "type": "documented_summary",
+    "text": "La MRAe a formulé des recommandations sur les impacts et besoins d'évaluation environnementale de Campus IA ; il s'agit d'un rôle d'expertise réglementaire, non d'une opposition militante.",
+    "source_id": "source_fouju_lot_r74",
+    "source_ids": [
+      "source_fouju_lot_r74"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_049",
+    "type": "documented_summary",
+    "text": "La commission d'enquête a rendu un avis favorable dans son rapport publié en juillet 2026 ; cet avis administratif n'est pas un militantisme de soutien au projet.",
+    "source_id": "source_fouju_off_enquete",
+    "source_ids": [
+      "source_fouju_off_enquete"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_050",
+    "type": "documented_summary",
+    "text": "La députée Ersilia Soudais a publiquement qualifié Campus IA d'aberration écologique lors d'une audition à l'Assemblée nationale.",
+    "source_id": "source_fouju_lot_r45",
+    "source_ids": [
+      "source_fouju_lot_r45"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_051",
+    "type": "documented_summary",
+    "text": "Cyrielle Chatelain cosigne une prise de position des Écologistes condamnant l'ampleur énergétique et foncière du projet de Fouju et demandant une réorientation des politiques de data centers.",
+    "source_id": "source_fouju_lot_r32",
+    "source_ids": [
+      "source_fouju_lot_r32"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_052",
+    "type": "documented_summary",
+    "text": "Eveline Biaggini, habitante citée dans un reportage sur Fouju, qualifie le projet de catastrophe écologique ; il s'agit de son appréciation personnelle.",
+    "source_id": "source_fouju_lot_r37",
+    "source_ids": [
+      "source_fouju_lot_r37"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_053",
+    "type": "documented_summary",
+    "text": "Giuliano Del Negro, habitant ayant assisté à une réunion d'information, exprime des doutes sur la présentation et les conséquences possibles du projet.",
+    "source_id": "source_fouju_lot_r37",
+    "source_ids": [
+      "source_fouju_lot_r37"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_054",
+    "type": "documented_summary",
+    "text": "Un habitant présenté sous le seul prénom Laurent dit explicitement être pour Campus IA, en invoquant l'emploi et les retombées économiques.",
+    "source_id": "source_fouju_lot_r37",
+    "source_ids": [
+      "source_fouju_lot_r37"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_055",
+    "type": "documented_summary",
+    "text": "Jean-Noël Péché, apiculteur près de Fouju, critique l'artificialisation et les pressions croissantes sur le territoire, selon les propos rapportés.",
+    "source_id": "source_fouju_lot_r64",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_056",
+    "type": "documented_summary",
+    "text": "Maxime Colin, juriste de FNE Île-de-France, prend position dans le dossier de presse associatif contre les risques et les procédures du projet.",
+    "source_id": "source_fouju_lot_r4",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_057",
+    "type": "documented_summary",
+    "text": "Pauline Isambert, de la Confédération paysanne d'Île-de-France, qualifie le projet de non-sens écologique et critique l'artificialisation agricole.",
+    "source_id": "source_fouju_lot_r76",
+    "source_ids": [
+      "source_fouju_lot_r76"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_058",
+    "type": "documented_summary",
+    "text": "Céline Malaisé, conseillère régionale, critique l'urbanisation de terres et les modalités démocratiques du projet de Fouju.",
+    "source_id": "source_fouju_lot_r55",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_059",
+    "type": "documented_summary",
+    "text": "Le préfet Pierre Ory représente l'autorité ayant pris les arrêtés du 29 juillet 2026 ; une décision administrative ne suffit pas à déterminer son opinion personnelle.",
+    "source_id": "source_fouju_off_pref",
+    "source_ids": [
+      "source_fouju_off_pref"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_060",
+    "type": "documented_summary",
+    "text": "Evelyne Michel, riveraine du hameau des Bordes, exprime une inquiétude sur les nuisances possibles, en particulier le bruit et la proximité du campus.",
+    "source_id": "source_fouju_lot_r23",
+    "source_ids": [
+      "source_fouju_lot_r23"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_061",
+    "type": "documented_summary",
+    "text": "Manuel Sirera, maire élu de Crisenoy en 2026, est cité au sujet des inquiétudes sur les effets du data center ; les propos rapportés ne démontrent pas une opposition formelle.",
+    "source_id": "source_fouju_lot_r23",
+    "source_ids": [
+      "source_fouju_lot_r23"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_062",
+    "type": "documented_summary",
+    "text": "Michaël Reffay, délégué général de France Datacenter, défend les effets possibles de Campus IA sur la souveraineté et le rapatriement de capacités numériques, dans un reportage de TF1.",
+    "source_id": "source_fouju_lot_r23",
+    "source_ids": [
+      "source_fouju_lot_r23"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_063",
+    "type": "documented_summary",
+    "text": "France Datacenter, organisation professionnelle représentée par Michaël Reffay, défend l'intérêt industriel des capacités de calcul françaises dans le cadre du débat sur Fouju.",
+    "source_id": "source_fouju_lot_r23",
+    "source_ids": [
+      "source_fouju_lot_r23"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_064",
+    "type": "documented_summary",
+    "text": "Terres de luttes relaie une mobilisation contre le Campus IA de Fouju dans une publication de réseau social fournie dans le corpus.",
+    "source_id": "source_fouju_lot_r49",
+    "source_ids": [
+      "source_fouju_lot_r49"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_065",
+    "type": "documented_summary",
+    "text": "L'Observatoire des multinationales publie une enquête sur la structure de financement et l'influence de MGX ; ce travail journalistique ne prouve pas à lui seul une opposition institutionnelle formelle.",
+    "source_id": "source_fouju_lot_r78",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_066",
+    "type": "documented_summary",
+    "text": "L'association R.E.N.A.R.D est expressément identifiée parmi les requérants opposés au Campus IA dans le communiqué collectif d'octobre 2026.",
+    "source_id": "source_fouju_lot_r4",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_067",
+    "type": "documented_summary",
+    "text": "Terre de Liens Île-de-France annonce participer aux recours contre le projet de Fouju aux côtés de FNE et de la Confédération paysanne.",
+    "source_id": "source_fouju_lot_r4",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_068",
+    "type": "documented_summary",
+    "text": "L'avocat Louis Cofflard détaille les six recours et expose les critiques juridiques du collectif sur le montage des sociétés exploitantes ; ce sont des allégations des requérants.",
+    "source_id": "source_fouju_lot_r10",
+    "source_ids": [
+      "source_fouju_lot_r10"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_069",
+    "type": "documented_summary",
+    "text": "La sénatrice Antoinette Guhl interroge le gouvernement le 15 octobre 2026 sur les conséquences environnementales et les droits humains dans le projet Campus IA ; elle n'annonce pas dans cette question un recours personnel.",
+    "source_id": "source_fouju_off_senguhl",
+    "source_ids": [
+      "source_fouju_off_senguhl"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_070",
+    "type": "documented_summary",
+    "text": "Le député écologiste Arnaud Bonnet qualifie l'implication de capitaux émiratis dans le projet de Fouju de risque pour l'indépendance numérique et de fausse bonne idée.",
+    "source_id": "source_fouju_lot_r47",
+    "source_ids": [
+      "source_fouju_lot_r47"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_071",
+    "type": "documented_summary",
+    "text": "Le 29 juillet 2026, la préfecture de Seine-et-Marne a pris une autorisation environnementale pour Campus IA et RTE et des arrêtés ICPE pour les datacenters DC1, DC2 et DC4.",
+    "source_id": "source_fouju_off_pref",
+    "source_ids": [
+      "source_fouju_off_pref"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_072",
+    "type": "documented_summary",
+    "text": "L'enquête publique du 30 avril au 30 mai 2026 a été suivie de conclusions favorables de la commission publiées en juillet 2026; ce constat ne neutralise pas les recours.",
+    "source_id": "source_fouju_off_enquete",
+    "source_ids": [
+      "source_fouju_off_enquete"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_073",
+    "type": "documented_summary",
+    "text": "La Tribune rapporte le 10 octobre 2026 le dépôt de six recours : PLU, raccordement de RTE et quatre autorisations environnementales. Le recours contre le permis de construire était alors annoncé mais non confirmé comme déposé.",
+    "source_id": "source_fouju_lot_r10",
+    "source_ids": [
+      "source_fouju_lot_r10"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_074",
+    "type": "documented_summary",
+    "text": "Le Gouvernement indiquait au Sénat le 30 juillet 2026 que 700 MW étaient contractualisés avec RTE; une puissance cible de 1,4 GW était envisagée dans les présentations de projet, et non un raccordement opérationnel à cette valeur.",
+    "source_id": "source_fouju_off_senat",
+    "source_ids": [
+      "source_fouju_off_senat"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_075",
+    "type": "documented_summary",
+    "text": "La CCBRC annonce le 28 août 2026 que la mise en compatibilité du PLU, les autorisations environnementales et le permis de construire de la première tranche permettaient de démarrer les premiers travaux et travaux préparatoires, avec mesures biodiversité.",
+    "source_id": "source_fouju_off_commune",
+    "source_ids": [
+      "source_fouju_off_commune"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_076",
+    "type": "documented_summary",
+    "text": "La CNDP présente Campus IA comme une société réunissant MGX, Bpifrance, Nvidia et Mistral AI; RTE est co-maître d'ouvrage des infrastructures de raccordement électrique.",
+    "source_id": "source_fouju_off_cndp",
+    "source_ids": [
+      "source_fouju_off_cndp"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_077",
+    "type": "documented_summary",
+    "text": "Le projet présenté à la CNDP était d'environ 70 hectares, d'environ douze datacenters et visait à terme une puissance électrique de 1,4 GW. Des surfaces élargies parfois annoncées (90 ha) renvoient à des périmètres différents.",
+    "source_id": "source_fouju_off_cndp",
+    "source_ids": [
+      "source_fouju_off_cndp"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_078",
+    "type": "documented_summary",
+    "text": "La concertation préalable sous garants Nathalie Durand et François Gillard s'est tenue du 13 octobre au 23 novembre 2025; le bilan est publié le 22 décembre 2025 et la réponse des porteurs le 23 février 2026.",
+    "source_id": "source_fouju_off_cndp",
+    "source_ids": [
+      "source_fouju_off_cndp"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_079",
+    "type": "documented_summary",
+    "text": "FNE Île-de-France, FNE 77, R.E.N.A.R.D, Terre de Liens, Confédération paysanne Île-de-France et Les Amis de la Terre annoncent leur contestation devant la justice; les griefs restent des arguments des requérants, sans annulation judiciaire démontrée.",
+    "source_id": "source_fouju_off_fnepress",
+    "source_ids": [
+      "source_fouju_off_fnepress"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_080",
+    "type": "documented_summary",
+    "text": "Aux municipales de mars 2026, la liste de Manuel Sirera a remporté la majorité à Crisenoy face à celle de l'ancien maire Hervé Jeannin.",
+    "source_id": "source_fouju_off_crisenoy",
+    "source_ids": [
+      "source_fouju_off_crisenoy"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_081",
+    "type": "documented_summary",
+    "text": "La mairie de Fouju liste Jonathan Wochenmayer comme maire en 2026.",
+    "source_id": "source_fouju_off_foujuelus",
+    "source_ids": [
+      "source_fouju_off_foujuelus"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_082",
+    "type": "documented_summary",
+    "text": "Christian Poteau présente l'absence de prélèvement dans la nappe comme une condition posée au projet. Il s'agit d'une déclaration politique sur le dossier, pas d'une mesure de consommation d'eau en exploitation.",
+    "source_id": "source_fouju_lot_r64",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_083",
+    "type": "documented_summary",
+    "text": "Des élus et porteurs mentionnent des perspectives d'emplois et de fiscalité locale; ces chiffres restent prospectifs et ne doivent pas être présentés comme des emplois réalisés.",
+    "source_id": "source_fouju_lot_r47",
+    "source_ids": [
+      "source_fouju_lot_r47"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_084",
+    "type": "documented_summary",
+    "text": "Des opposants s'inquiètent de possibles pollutions atmosphériques, dont des PFAS, provenant notamment des installations de secours; ces risques allégués ne constituent pas la preuve d'un rejet constaté à Fouju.",
+    "source_id": "source_fouju_lot_r69",
+    "source_ids": [
+      "source_fouju_lot_r69"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_085",
+    "type": "documented_summary",
+    "text": "Un article de MesInfos rapporte l'attribution d'une prestation d'infrastructures à Eiffage Énergie Systèmes, sans démontrer l'achèvement des travaux.",
+    "source_id": "source_fouju_lot_r51",
+    "source_ids": [
+      "source_fouju_lot_r51"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_086",
+    "type": "documented_summary",
+    "text": "Le collectif requérant, par son avocat Louis Cofflard, conteste le découpage en sociétés exploitantes au regard des seuils Seveso. La question est alléguée et contestable devant la juridiction; aucune fraude établie par jugement n'est démontrée.",
+    "source_id": "source_fouju_lot_r10",
+    "source_ids": [
+      "source_fouju_lot_r10"
+    ],
+    "source_status": "qualified",
+    "verification": "texte_article_fourni_dans_xlsx",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_20261106_087",
+    "type": "documented_summary",
+    "text": "Jonathan Wochenmayer figure comme maire dans la liste officielle des élus publiée par la commune après mars 2026.",
+    "source_id": "source_fouju_off_foujuelus",
+    "source_ids": [
+      "source_fouju_off_foujuelus"
+    ],
+    "source_status": "qualified",
+    "verification": "page_publique_revue",
+    "recorded_at": "2026-11-06",
+    "status": "attributed_or_confirmed"
   }
 ]

@@ -1,0 +1,243 @@
+{
+  "project_status": "Au 6 novembre 2026 : autorisations préfectorales délivrées en juillet, travaux préparatoires annoncés en août; six recours associatifs annoncés en octobre et résultat contentieux non établi.",
+  "project_summary": "Campus IA de Fouju, consortium MGX/Bpifrance/Nvidia/Mistral AI; étude jusqu'à environ 1,4 GW et 70 ha dans les documents CNDP, RTE co-maître d'ouvrage du raccordement.",
+  "milestones": [
+    {
+      "date": "2025-07-23",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Désignation des garants CNDP",
+      "details": "Nathalie Durand et François Gillard sont désignés garants de la concertation préalable.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_078"
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Ouverture de la concertation préalable",
+      "details": "Début de la participation du public sur le campus et son raccordement.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_078"
+      ]
+    },
+    {
+      "date": "2025-11-23",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Clôture de la concertation préalable",
+      "details": "Fin des réunions et contributions dans le calendrier de la fiche CNDP.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_078"
+      ]
+    },
+    {
+      "date": "2025-12-22",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Bilan des garants rendu public",
+      "details": "La CNDP publie le bilan de la concertation.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_078"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Contrat de raccordement accéléré avec RTE",
+      "details": "Les documents du projet mentionnent la signature d'un contrat de raccordement accéléré.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_047",
+        "evidence_fouju_20261106_074"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Réponse des porteurs au bilan des garants",
+      "details": "Publication de la réponse des maîtres d'ouvrage aux observations des garants.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_078"
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Élections municipales à Fouju et Crisenoy",
+      "details": "Jonathan Wochenmayer conserve la mairie de Fouju; Manuel Sirera remporte l'élection à Crisenoy.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_081",
+        "evidence_fouju_20261106_080"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Ouverture de l'enquête publique",
+      "details": "Démarrage de l'enquête publique sur Campus IA et les aménagements RTE.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_072"
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Clôture de l'enquête publique",
+      "details": "Fin de la période publique de dépôt des observations et demandes.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_072"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Publication du rapport de la commission d'enquête",
+      "details": "Avis favorable de la commission, malgré les réserves exprimées par des associations.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_072"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Autorisations préfectorales",
+      "details": "Arrêtés environnementaux et ICPE concernant le campus et plusieurs exploitants.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_071"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Annonce de travaux préparatoires",
+      "details": "La CCBRC annonce le démarrage de la clôture, des mesures de biodiversité et la poursuite des fouilles archéologiques.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_075"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "period_precision": "month",
+      "status": "reported",
+      "title": "Saisine du juge administratif par les associations",
+      "details": "Six recours sont annoncés comme déposés fin septembre ; publication collective en octobre.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_073"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "period_precision": "day",
+      "status": "reported",
+      "title": "Présentation publique des six recours",
+      "details": "Les requérants détaillent les actes contestés et leur argumentation juridique.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_073",
+        "evidence_fouju_20261106_086"
+      ]
+    },
+    {
+      "date": "2028",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Première tranche envisagée",
+      "details": "Objectif de mise en service d'une première phase, distinct des permis obtenus et des travaux déjà engagés.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_077"
+      ]
+    },
+    {
+      "date": "2038",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Horizon envisagé pour le campus complet",
+      "details": "Calendrier d'achèvement global annoncé; sa réalisation dépend de futures phases d'investissement et d'autorisation.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_077"
+      ]
+    }
+  ],
+  "fact_sheet": [
+    {
+      "label": "Société responsable",
+      "value": "Campus IA (MGX, Bpifrance, Nvidia, Mistral AI)",
+      "qualifier": "Coentreprise décrite par la CNDP; éviter d'attribuer des pourcentages de participation non vérifiés par les documents officiels.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_076"
+      ]
+    },
+    {
+      "label": "Gestionnaire du raccordement",
+      "value": "RTE",
+      "qualifier": "Co-maître d'ouvrage des infrastructures électriques; 700 MW contractualisés selon le gouvernement le 30 juillet 2026.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_074"
+      ]
+    },
+    {
+      "label": "Puissance à terme envisagée",
+      "value": "1,4 GW",
+      "qualifier": "Objectif de dimensionnement et non niveau de raccordement déjà réalisé.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_077"
+      ]
+    },
+    {
+      "label": "Emprise du dossier CNDP",
+      "value": "Environ 70 hectares",
+      "qualifier": "D'autres chiffres peuvent compter des périmètres périphériques.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_077"
+      ]
+    },
+    {
+      "label": "Campus prévisionnel",
+      "value": "Environ 12 datacenters",
+      "qualifier": "Trois bâtiments prévus pour la première phase selon la CNDP.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_077"
+      ]
+    },
+    {
+      "label": "Décisions environnementales",
+      "value": "29 juillet 2026",
+      "qualifier": "Arrêtés préfectoraux distincts pour le campus et les installations classées DC1, DC2, DC4.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_071"
+      ]
+    },
+    {
+      "label": "Avis d'enquête",
+      "value": "Favorable (commission d'enquête)",
+      "qualifier": "Avis consultatif publié en juillet; ne préjuge pas de l'issue judiciaire des recours.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_072"
+      ]
+    },
+    {
+      "label": "Recours annoncés",
+      "value": "Six recours fin septembre 2026",
+      "qualifier": "PLU, autorisation de raccordement de RTE, quatre autorisations environnementales; aucun jugement au fond établi.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_073"
+      ]
+    },
+    {
+      "label": "Travaux",
+      "value": "Préparation annoncée en août 2026",
+      "qualifier": "Clôture, protections écologiques et fouilles préalables selon la collectivité.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_075"
+      ]
+    }
+  ]
+}

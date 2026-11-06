@@ -1,7 +1,7 @@
 {
   "id": "project_fouju",
   "title": "Cartographie interactive — Campus IA Fouju",
-  "subtitle": "Deux vues synchronisées reposant sur un référentiel central unique.",
-  "last_updated": "2026-10-02",
-  "data_notice": "Les éléments repris des fichiers fournis sont présentés comme données de travail. Les URL et justifications documentaires absentes restent explicitement à qualifier."
+  "subtitle": "Campus IA à Fouju : positions attribuées, recours, autorisations et réseau de relations fondés sur des URLs documentaires.",
+  "last_updated": "2026-11-06",
+  "data_notice": "Audit au 6 novembre 2026 : toutes les positions et relations conservées renvoient à des sources cliquables; les articles issus de Fouju.xlsx restent distingués des pages institutionnelles consultées. Les simples expertises sectorielles ne sont pas automatiquement des oppositions au campus. Le recours n'implique pas l'annulation des arrêtés."
 }

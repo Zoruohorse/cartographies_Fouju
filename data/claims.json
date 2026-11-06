@@ -1,1430 +1,1192 @@
 [
   {
-    "id": "claim_0001",
+    "id": "claim_qual_20261106_0001",
     "subject_id": "actor_0001",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Dénonce le caractère hors norme du projet, l’artificialisation accélérée, les risques de pollution PFAS et la procédure accélérée.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Jean-François Dupont (FNE 77) conteste publiquement la structuration réglementaire et participe au recours associatif contre les autorisations de Campus IA.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0001"
+      "evidence_fouju_20261106_001"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0002",
+    "id": "claim_qual_20261106_0002",
     "subject_id": "actor_0002",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "A déposé une contribution officielle à l’enquête publique exigeant une nouvelle réunion publique et une rallonge des délais.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Jane Buisson, vice-présidente de FNE 77, a participé à une démarche demandant une prolongation de l'enquête publique et une nouvelle réunion d'information.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0002"
+      "evidence_fouju_20261106_002"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0003",
+    "id": "claim_qual_20261106_0003",
     "subject_id": "actor_0003",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Opposée à la démesure et au flou entourant les consommations d’eau et le foncier.",
+    "summary": "Aline Aurias, porte-parole de la Confédération paysanne, s'oppose à l'artificialisation agricole prévue et critique la dimension du projet.",
     "certainty": "medium",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0003"
+      "evidence_fouju_20261106_003"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0004",
+    "id": "claim_qual_20261106_0004",
     "subject_id": "actor_0004",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Exige un moratoire immédiat et cherche à faire du dossier un enjeu national.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "William Elie, intervenant pour l'Alliance écologique et sociale dans la mobilisation de Fouju, appelle à un moratoire sur ce type de grands projets.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0004"
+      "evidence_fouju_20261106_004"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0005",
+    "id": "claim_qual_20261106_0005",
     "subject_id": "actor_0005",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Alerte la population locale sur les impacts du projet.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Dorothée Villemaux, représentante des Écologistes de Melun Val de Seine, appelle les habitants à s'informer sur les risques allégués et les caractéristiques de Campus IA ; aucune déclaration de refus total n'est citée ici.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0005"
+      "evidence_fouju_20261106_005"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0006",
+    "id": "claim_qual_20261106_0006",
     "subject_id": "actor_0006",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Critique la dérégulation administrative et la réduction des capacités de recours.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Lou Welgrym (Data for Good) critique les simplifications administratives et les restrictions des recours des citoyens, citant Fouju pour discuter de souveraineté ; il ne s'agit pas d'un recours judiciaire individuel.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0006"
+      "evidence_fouju_20261106_006"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0007",
-    "subject_id": "actor_0007",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Déplore le manque de concertation publique et de débat national sur les usages du calcul.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0007"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0008",
+    "id": "claim_qual_20261106_0008",
     "subject_id": "actor_0008",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Juge le dimensionnement déconnecté des besoins réels et spéculatif.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Marie Garin (CNRS) met en question les hypothèses de demande future qui sous-tendent la multiplication des centres de calcul, dans un article consacré notamment à Fouju ; sa position personnelle sur l'autorisation du site n'est pas établie.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0008"
+      "evidence_fouju_20261106_007"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0009",
-    "subject_id": "actor_0009",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Alerte sur la concurrence électrique et les arbitrages au détriment de la transition énergétique.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0009"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0010",
+    "id": "claim_qual_20261106_0010",
     "subject_id": "actor_0010",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Estime que les processus de concertation arrivent trop tardivement.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Ophélie Coelho interroge le sens de la souveraineté numérique et le calendrier de concertation de Campus IA ; ses propos ne constituent pas nécessairement une demande d'abandon.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0010"
+      "evidence_fouju_20261106_008"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0011",
+    "id": "claim_qual_20261106_0011",
     "subject_id": "actor_0011",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Critique le gigantisme matériel et la dépendance technologique.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Irénée Régnauld cosigne avec Arnaud Saint-Martin une tribune contestant l'implantation agricole et le gigantisme du projet actuel.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0011"
+      "evidence_fouju_20261106_009"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0012",
+    "id": "claim_qual_20261106_0012",
     "subject_id": "actor_0012",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Dénonce la soumission des politiques publiques aux intérêts financiers étrangers.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "unknown",
+    "summary": "Olivier Petitjean, de l'Observatoire des multinationales, documente l'actionnariat de Campus IA ; cette enquête n'établit pas à elle seule son opposition personnelle au projet.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
-      "evidence_0012"
+      "evidence_fouju_20261106_010"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0013",
-    "subject_id": "actor_0013",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Conteste les promesses d’emplois en s’appuyant sur des précédents industriels.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0013"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0014",
+    "id": "claim_qual_20261106_0014",
     "subject_id": "actor_0014",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Souligne la convergence citoyenne autour de la lutte de Fouju.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Laurence Allard qualifie de mobilisation exemplaire le rassemblement local contre les grands data centers ; cette appréciation n'équivaudrait pas à une position sur chaque arrêté.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0014"
+      "evidence_fouju_20261106_011"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0015",
+    "id": "claim_qual_20261106_0015",
     "subject_id": "actor_0015",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Dénonce un découpage juridique visant selon elle à contourner les réglementations.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Pauline Denis (The Shift Project) alerte sur une possible saturation des capacités de raccordement et les enjeux d'électrification ; elle exprime une analyse sectorielle, pas un recours propre à Fouju.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0015"
+      "evidence_fouju_20261106_012"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0016",
+    "id": "claim_qual_20261106_0016",
     "subject_id": "actor_0016",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Dénoncent une infrastructure imposée sans consultation préalable.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "unknown",
+    "summary": "Une famille de riverains de Fouju désignée comme famille Fernique suit les réunions publiques ; le passage documente leur participation, sans établir une position univoque.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
-      "evidence_0016"
+      "evidence_fouju_20261106_013"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0017",
+    "id": "claim_qual_20261106_0017",
     "subject_id": "actor_0017",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Exprime un sentiment de déclassement territorial.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "unknown",
+    "summary": "Christine Scialom, riveraine de Fouju, est citée parmi les participants assidus à la concertation de 2025 ; aucun avis explicite n'est attribué dans cette source.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
-      "evidence_0017"
+      "evidence_fouju_20261106_014"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0018",
+    "id": "claim_qual_20261106_0018",
     "subject_id": "actor_0018",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "S’inquiète des risques de pollution et de contamination des sols par les PFAS.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Une maraîchère prénommée Maud, identifiée seulement par un prénom d'emprunt, fait part de préoccupations sur d'éventuelles pollutions atmosphériques et PFAS ; le risque n'est pas constaté sur le site.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0018"
+      "evidence_fouju_20261106_015"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0019",
-    "subject_id": "actor_0019",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Incarne les passerelles entre contestations franciliennes de centres de données.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0019"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0020",
+    "id": "claim_qual_20261106_0020",
     "subject_id": "actor_0020",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Dénonce un projet inutile, énergivore et opaque.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Le député Arnaud Saint-Martin critique explicitement l'ampleur énergétique, foncière et économique de Campus IA, tout en précisant ne pas être opposé par principe à tous les centres de données.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0020"
+      "evidence_fouju_20261106_016"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0021",
+    "id": "claim_qual_20261106_0021",
     "subject_id": "actor_0021",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "A déposé une question écrite critiquant un contournement réglementaire.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "La sénatrice Marianne Margaté critique le modèle de territoire supportant les nuisances et s'inquiète du bruit, de la chaleur et de l'éclairage projetés.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0021"
+      "evidence_fouju_20261106_017"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0022",
+    "id": "claim_qual_20261106_0022",
     "subject_id": "actor_0022",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Critique les contraintes financières poussant les communes à accepter le projet.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Stéphanie Le Meur souligne des pressions budgétaires pesant selon elle sur les décisions locales et craint que les habitants soient mis devant le fait accompli.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0022"
+      "evidence_fouju_20261106_018"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0023",
-    "subject_id": "actor_0023",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Critique le modèle macro-économique du projet.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0023"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0024",
-    "subject_id": "actor_0024",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Dépose des amendements contre la simplification administrative sans contreparties.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0024"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0025",
+    "id": "claim_qual_20261106_0025",
     "subject_id": "actor_0025",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Soutient fortement le projet au regard des recettes fiscales attendues.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Le maire de Fouju Jonathan Wochenmayer défend l'accueil du campus sur une zone qu'il juge relativement moins impactante et fait valoir les recettes possibles pour la commune.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0025"
+      "evidence_fouju_20261106_019"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0026",
+    "id": "claim_qual_20261106_0026",
     "subject_id": "actor_0026",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Soutient l’infrastructure au nom de la souveraineté technologique.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Le député Jean-Louis Thiériot qualifie l'arrivée de grands data centers en Seine-et-Marne d'excellente nouvelle et y voit un levier de souveraineté et d'économie.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0026"
+      "evidence_fouju_20261106_020"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0027",
+    "id": "claim_qual_20261106_0027",
     "subject_id": "actor_0027",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Plutôt favorable ou rassuré, avec vigilance sur l’eau, la mobilité et l’économie locale.",
+    "value": "favorable",
+    "summary": "Christian Poteau, président de la CCBRC, qualifie Campus IA de beau projet et défend les retombées locales, tout en demandant l'absence de prélèvement dans la nappe.",
     "certainty": "medium",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0027"
+      "evidence_fouju_20261106_021"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0028",
+    "id": "claim_qual_20261106_0028",
     "subject_id": "actor_0028",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "S’inquiète des hauteurs, du paysage, des inondations et du voisinage de la prison.",
-    "certainty": "medium",
-    "status": "reported",
+    "value": "unknown",
+    "summary": "Hervé Jeannin, ancien maire de Crisenoy, a été battu aux municipales de mars 2026 par Manuel Sirera ; sa présence lors de réunions de 2025 ne permet pas d'établir une position actuelle.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
-      "evidence_0028"
+      "evidence_fouju_20261106_022"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0029",
+    "id": "claim_qual_20261106_0029",
     "subject_id": "actor_0029",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Favorable par pragmatisme compétitif territorial.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Le sénateur Aymeric Durox explique lors d'une réunion publique qu'il préfère l'implantation de Campus IA en France plutôt que dans un pays voisin.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0029"
+      "evidence_fouju_20261106_023"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0030",
-    "subject_id": "actor_0030",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "favorable",
-    "summary": "Défend les centres de données comme leviers d’attractivité économique.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0030"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0031",
+    "id": "claim_qual_20261106_0031",
     "subject_id": "actor_0031",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Promeut activement l’expansion du projet dans le cadre de Choose France.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Emmanuel Macron a mis en avant Campus IA parmi les annonces d'investissements liées à l'intelligence artificielle et à Choose France ; il s'agit d'un soutien politique au programme.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0031"
+      "evidence_fouju_20261106_024"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0032",
+    "id": "claim_qual_20261106_0032",
     "subject_id": "actor_0032",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Aucune position publique directe établie dans la base.",
+    "value": "unknown",
+    "summary": "Valérie Pécresse intervient sur les enjeux régionaux des data centers et de la chaleur récupérable ; aucune prise de position personnelle explicite pour ou contre les autorisations de Fouju n'est démontrée par cette source.",
     "certainty": "low",
-    "status": "reported",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
-      "evidence_0032"
+      "evidence_fouju_20261106_025"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0033",
+    "id": "claim_qual_20261106_0033",
     "subject_id": "actor_0033",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Pivot technique de la contestation locale.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "FNE Seine-et-Marne fait partie des associations requérantes ayant engagé six recours contre les décisions relatives à Fouju.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0033"
+      "evidence_fouju_20261106_026"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0034",
+    "id": "claim_qual_20261106_0034",
     "subject_id": "actor_0034",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Impliquée dans l’analyse juridique des implantations de centres de données.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "FNE Île-de-France annonce et documente une série de recours visant les autorisations du Campus IA de Fouju.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0034"
+      "evidence_fouju_20261106_027"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0035",
+    "id": "claim_qual_20261106_0035",
     "subject_id": "actor_0035",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Relais militant actif sur le terrain.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Les Soulèvements de la Terre sont mentionnés parmi les organisations de la mobilisation contre le campus de Fouju, notamment lors des initiatives publiques du collectif.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0035"
+      "evidence_fouju_20261106_028"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0036",
+    "id": "claim_qual_20261106_0036",
     "subject_id": "actor_0036",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Défend les terres arables et la souveraineté alimentaire.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "La Confédération paysanne 77 figure parmi les organisations mobilisées localement contre l'artificialisation du projet de Fouju.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0036"
+      "evidence_fouju_20261106_029"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0037",
+    "id": "claim_qual_20261106_0037",
     "subject_id": "actor_0037",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Mobilisée contre l’accaparement et la pression foncière.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "La Confédération paysanne d'Île-de-France fait partie des organisations annonçant les recours juridictionnels contre le Campus IA.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0037"
+      "evidence_fouju_20261106_030"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0038",
+    "id": "claim_qual_20261106_0038",
     "subject_id": "actor_0038",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Membre de la coalition Stop Campus IA.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Des représentants de la LPO se sont associés aux contributions critiques et à la mobilisation sur les effets potentiels du campus pour les milieux naturels.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0038"
+      "evidence_fouju_20261106_031"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0039",
+    "id": "claim_qual_20261106_0039",
     "subject_id": "actor_0039",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Représentée notamment par Dorothée Villemaux.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Les Écologistes de Melun Val de Seine relaient les enjeux environnementaux du projet par la voix de Dorothée Villemaux, sans que ce seul article documente une procédure contentieuse propre à la structure.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0039"
+      "evidence_fouju_20261106_032"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0040",
+    "id": "claim_qual_20261106_0040",
     "subject_id": "actor_0040",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Mobilisée dans la contestation citoyenne et environnementale.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "L'union Solidaires est citée parmi les syndicats participant à la mobilisation contre les grands centres de données, dont Fouju.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0040"
+      "evidence_fouju_20261106_033"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0041",
+    "id": "claim_qual_20261106_0041",
     "subject_id": "actor_0041",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Apporte une expertise technique critique.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "unknown",
+    "summary": "Solidaires Informatique est cité parmi les organisations présentes à un rassemblement de sensibilisation contre les mégaprojets de données ; aucune action juridique particulière ne lui est attribuée.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
-      "evidence_0041"
+      "evidence_fouju_20261106_034"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0042",
-    "subject_id": "actor_0042",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Mobilisée en faveur d’un moratoire.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0042"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0043",
+    "id": "claim_qual_20261106_0043",
     "subject_id": "actor_0043",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Exige l’arrêt des simplifications administratives sans garanties.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "L'Alliance écologique et sociale intervient par la voix de William Elie lors de la mobilisation de Fouju et propose un moratoire national sur ce type d'implantations.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0043"
+      "evidence_fouju_20261106_035"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0044",
+    "id": "claim_qual_20261106_0044",
     "subject_id": "actor_0044",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Présente lors de mobilisations citoyennes.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Attac apparaît parmi les organisations présentes lors d'une mobilisation à Champeaux ; le reportage ne permet pas de lui imputer personnellement l'ensemble des griefs ni un recours déposé.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0044"
+      "evidence_fouju_20261106_036"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0045",
+    "id": "claim_qual_20261106_0045",
     "subject_id": "actor_0045",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Intégrée à la coalition de contestation.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Les Amis de la Terre figurent parmi les organisations ayant engagé des recours contre le projet de Campus IA.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0045"
+      "evidence_fouju_20261106_037"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0046",
+    "id": "claim_qual_20261106_0046",
     "subject_id": "actor_0046",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Engagé dans les actions de terrain à Champeaux.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Extinction Rebellion apparaît parmi les organisations citées pendant une mobilisation territoriale contre les grands centres de données ; aucun recours propre n'est identifié par ce reportage.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0046"
+      "evidence_fouju_20261106_038"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0047",
+    "id": "claim_qual_20261106_0047",
     "subject_id": "actor_0047",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Structure la contestation et prépare des recours.",
+    "summary": "Le collectif Stop Campus IA publie une pétition, des ressources de mobilisation et des documents contestant explicitement l'installation de Campus IA à Fouju.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0047"
+      "evidence_fouju_20261106_039"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0048",
+    "id": "claim_qual_20261106_0048",
     "subject_id": "actor_0048",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Invoque l’indépendance de calcul, avec des réserves liées au secret des affaires.",
+    "summary": "Thibaud Desfossés, dirigeant du projet Campus IA, défend sa réalisation et sa justification industrielle et numérique dans un entretien public.",
     "certainty": "medium",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0048"
+      "evidence_fouju_20261106_040"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0049",
+    "id": "claim_qual_20261106_0049",
     "subject_id": "actor_0049",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Actionnaire majoritaire annoncé à 70 %.",
+    "summary": "MGX est l'un des quatre actionnaires identifiés par la CNDP de la société Campus IA, responsable du projet de datacenters à Fouju.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0049"
+      "evidence_fouju_20261106_041"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0050",
+    "id": "claim_qual_20261106_0050",
     "subject_id": "actor_0050",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Actionnaire annoncé à 25 %.",
+    "summary": "Bpifrance figure parmi les quatre actionnaires de la société Campus IA présentés sur la fiche institutionnelle de la CNDP.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0050"
+      "evidence_fouju_20261106_042"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0051",
+    "id": "claim_qual_20261106_0051",
     "subject_id": "actor_0051",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Attributaire annoncé d’un marché de sous-station haute tension.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Eiffage Énergie Systèmes est présenté comme entreprise retenue sur un volet d'infrastructures du projet Campus IA ; la participation économique documentée n'est pas un soutien politique.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0051"
+      "evidence_fouju_20261106_043"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0052",
+    "id": "claim_qual_20261106_0052",
     "subject_id": "actor_0052",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Partenaire et fournisseur d’infrastructures de calcul.",
+    "summary": "Nvidia est identifié par la CNDP parmi les actionnaires de Campus IA ; cette participation au consortium ne prouve pas l'attribution de contrats de tous les équipements de calcul.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0052"
+      "evidence_fouju_20261106_044"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0053",
+    "id": "claim_qual_20261106_0053",
     "subject_id": "actor_0053",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Membre annoncé du consortium.",
-    "certainty": "medium",
-    "status": "reported",
+    "summary": "Mistral AI figure parmi les actionnaires de Campus IA, selon la CNDP ; la réponse ministérielle évoque un accès privilégié à ses capacités.",
+    "certainty": "high",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0053"
+      "evidence_fouju_20261106_045"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0054",
+    "id": "claim_qual_20261106_0054",
     "subject_id": "actor_0054",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "favorable",
-    "summary": "Partenaire annoncé d’un pôle académique intégré au site.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "unknown",
+    "summary": "L'École polytechnique est citée comme partenaire académique dans un article sur l'écosystème de Campus IA ; aucun avis institutionnel autonome sur les autorisations n'est étayé.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
     "evidence_ids": [
-      "evidence_0054"
+      "evidence_fouju_20261106_046"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0055",
+    "id": "claim_qual_20261106_0055",
     "subject_id": "actor_0055",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Prévoit une montée progressive du raccordement électrique.",
+    "summary": "RTE a contractualisé 700 MW avec Campus IA selon la réponse ministérielle du 30 juillet 2026 ; son rôle est celui du gestionnaire du réseau, pas une opinion politique de soutien.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0055"
+      "evidence_fouju_20261106_047"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0056",
+    "id": "claim_qual_20261106_0056",
     "subject_id": "actor_0056",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Émet des alertes environnementales sur le projet.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "La MRAe a formulé des recommandations sur les impacts et besoins d'évaluation environnementale de Campus IA ; il s'agit d'un rôle d'expertise réglementaire, non d'une opposition militante.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0056"
+      "evidence_fouju_20261106_048"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0057",
-    "subject_id": "actor_0057",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Bénéficiaire annoncé d’un protocole transactionnel.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0057"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0058",
+    "id": "claim_qual_20261106_0058",
     "subject_id": "actor_0058",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "A rendu un avis défavorable sur l’ancien projet logistique.",
+    "summary": "La commission d'enquête a rendu un avis favorable dans son rapport publié en juillet 2026 ; cet avis administratif n'est pas un militantisme de soutien au projet.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0058"
+      "evidence_fouju_20261106_049"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0059",
-    "subject_id": "actor_0059",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "A encadré un événement protestataire contre le projet.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0059"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0060",
-    "subject_id": "actor_0060",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Référence nationale de lutte techno-critique.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0060"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0061",
-    "subject_id": "actor_0061",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Établit des passerelles de solidarité avec Fouju.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0061"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0062",
-    "subject_id": "actor_0062",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Engagé dans la contestation francilienne des infrastructures numériques.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0062"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0063",
-    "subject_id": "actor_0063",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Opposé à un autre projet de centre de données.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0063"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0064",
-    "subject_id": "actor_0064",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Réclame un moratoire d’urbanisme sur les grands centres de données.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0064"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0065",
-    "subject_id": "actor_0065",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Allié de La Quadrature du Net.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0065"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0066",
-    "subject_id": "actor_0066",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Référence de mobilisation contre les industries numériques de forte puissance.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0066"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0067",
+    "id": "claim_qual_20261106_0067",
     "subject_id": "actor_0067",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Dénonce une aberration écologique et un impact territorial démesuré.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "La députée Ersilia Soudais a publiquement qualifié Campus IA d'aberration écologique lors d'une audition à l'Assemblée nationale.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0067"
+      "evidence_fouju_20261106_050"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0068",
+    "id": "claim_qual_20261106_0068",
     "subject_id": "actor_0068",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Appelle à un moratoire national sur les centres de données.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Cyrielle Chatelain cosigne une prise de position des Écologistes condamnant l'ampleur énergétique et foncière du projet de Fouju et demandant une réorientation des politiques de data centers.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0068"
+      "evidence_fouju_20261106_051"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0069",
-    "subject_id": "actor_0069",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Alerte sur les îlots de chaleur et les émissions de NOx.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0069"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0070",
-    "subject_id": "actor_0070",
-    "project_id": "project_fouju",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Assimile le projet à un accaparement foncier menaçant l’agriculture.",
-    "certainty": "high",
-    "status": "reported",
-    "evidence_ids": [
-      "evidence_0070"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "claim_0071",
+    "id": "claim_qual_20261106_0071",
     "subject_id": "actor_0071",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "S’oppose au gigantisme de l’infrastructure.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Eveline Biaggini, habitante citée dans un reportage sur Fouju, qualifie le projet de catastrophe écologique ; il s'agit de son appréciation personnelle.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0071"
+      "evidence_fouju_20261106_052"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0072",
+    "id": "claim_qual_20261106_0072",
     "subject_id": "actor_0072",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "S’inquiète de l’urbanisation et des nuisances de chantier.",
+    "summary": "Giuliano Del Negro, habitant ayant assisté à une réunion d'information, exprime des doutes sur la présentation et les conséquences possibles du projet.",
     "certainty": "medium",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0072"
+      "evidence_fouju_20261106_053"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0073",
+    "id": "claim_qual_20261106_0073",
     "subject_id": "actor_0073",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Soutient le projet pour ses promesses économiques.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Un habitant présenté sous le seul prénom Laurent dit explicitement être pour Campus IA, en invoquant l'emploi et les retombées économiques.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0073"
+      "evidence_fouju_20261106_054"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0074",
+    "id": "claim_qual_20261106_0074",
     "subject_id": "actor_0074",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Déplore la perte de terres agricoles.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Jean-Noël Péché, apiculteur près de Fouju, critique l'artificialisation et les pressions croissantes sur le territoire, selon les propos rapportés.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0074"
+      "evidence_fouju_20261106_055"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0075",
+    "id": "claim_qual_20261106_0075",
     "subject_id": "actor_0075",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Dénonce l’accaparement des terres et les tensions sur l’électricité.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Maxime Colin, juriste de FNE Île-de-France, prend position dans le dossier de presse associatif contre les risques et les procédures du projet.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0075"
+      "evidence_fouju_20261106_056"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0076",
+    "id": "claim_qual_20261106_0076",
     "subject_id": "actor_0076",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Critique l’artificialisation, le manque de concertation et un prélèvement en nappe allégué.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Pauline Isambert, de la Confédération paysanne d'Île-de-France, qualifie le projet de non-sens écologique et critique l'artificialisation agricole.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0076"
+      "evidence_fouju_20261106_057"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0077",
+    "id": "claim_qual_20261106_0077",
     "subject_id": "actor_0077",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Critique le calendrier et se déclare prête à soutenir d’éventuels recours.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Céline Malaisé, conseillère régionale, critique l'urbanisation de terres et les modalités démocratiques du projet de Fouju.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0077"
+      "evidence_fouju_20261106_058"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0078",
+    "id": "claim_qual_20261106_0078",
     "subject_id": "actor_0078",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "favorable",
-    "summary": "A autorisé les premières infrastructures le 29 juillet 2026 selon la base.",
+    "value": "neutral",
+    "summary": "Le préfet Pierre Ory représente l'autorité ayant pris les arrêtés du 29 juillet 2026 ; une décision administrative ne suffit pas à déterminer son opinion personnelle.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0078"
+      "evidence_fouju_20261106_059"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0079",
+    "id": "claim_qual_20261106_0079",
     "subject_id": "actor_0079",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Redoute le bruit, les nuisances visuelles et les risques de pollution.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Evelyne Michel, riveraine du hameau des Bordes, exprime une inquiétude sur les nuisances possibles, en particulier le bruit et la proximité du campus.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0079"
+      "evidence_fouju_20261106_060"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0080",
+    "id": "claim_qual_20261106_0080",
     "subject_id": "actor_0080",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Exprime une vigilance sur les impacts pour les habitants.",
+    "summary": "Manuel Sirera, maire élu de Crisenoy en 2026, est cité au sujet des inquiétudes sur les effets du data center ; les propos rapportés ne démontrent pas une opposition formelle.",
     "certainty": "medium",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0080"
+      "evidence_fouju_20261106_061"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0081",
+    "id": "claim_qual_20261106_0081",
     "subject_id": "actor_0081",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Défend le campus au nom de la souveraineté et du rapatriement des données.",
+    "summary": "Michaël Reffay, délégué général de France Datacenter, défend les effets possibles de Campus IA sur la souveraineté et le rapatriement de capacités numériques, dans un reportage de TF1.",
     "certainty": "medium",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0081"
+      "evidence_fouju_20261106_062"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0082",
+    "id": "claim_qual_20261106_0082",
     "subject_id": "actor_0082",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Soutient les infrastructures nationales de calcul et de stockage.",
+    "summary": "France Datacenter, organisation professionnelle représentée par Michaël Reffay, défend l'intérêt industriel des capacités de calcul françaises dans le cadre du débat sur Fouju.",
     "certainty": "medium",
-    "status": "reported",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0082"
+      "evidence_fouju_20261106_063"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0083",
+    "id": "claim_qual_20261106_0083",
     "subject_id": "actor_0083",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Intègre Fouju dans une mobilisation nationale contre les mégaprojets.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Terres de luttes relaie une mobilisation contre le Campus IA de Fouju dans une publication de réseau social fournie dans le corpus.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0083"
+      "evidence_fouju_20261106_064"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
   },
   {
-    "id": "claim_0084",
-    "subject_id": "actor_0084",
+    "id": "claim_qual_20261106_0086",
+    "subject_id": "actor_0086",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "L'Observatoire des multinationales publie une enquête sur la structure de financement et l'influence de MGX ; ce travail journalistique ne prouve pas à lui seul une opposition institutionnelle formelle.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_fouju_20261106_065"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "claim_qual_20261106_0087",
+    "subject_id": "actor_0087",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "L'association R.E.N.A.R.D est expressément identifiée parmi les requérants opposés au Campus IA dans le communiqué collectif d'octobre 2026.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_fouju_20261106_066"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "claim_qual_20261106_0088",
+    "subject_id": "actor_0088",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Terre de Liens Île-de-France annonce participer aux recours contre le projet de Fouju aux côtés de FNE et de la Confédération paysanne.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_fouju_20261106_067"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "claim_qual_20261106_0089",
+    "subject_id": "actor_0089",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "L'avocat Louis Cofflard détaille les six recours et expose les critiques juridiques du collectif sur le montage des sociétés exploitantes ; ce sont des allégations des requérants.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_fouju_20261106_068"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "claim_qual_20261106_0090",
+    "subject_id": "actor_0090",
     "project_id": "project_fouju",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Fournit des comparaisons internationales sur les oppositions locales.",
-    "certainty": "medium",
-    "status": "reported",
+    "summary": "La sénatrice Antoinette Guhl interroge le gouvernement le 15 octobre 2026 sur les conséquences environnementales et les droits humains dans le projet Campus IA ; elle n'annonce pas dans cette question un recours personnel.",
+    "certainty": "high",
+    "status": "documented_or_attributed",
     "evidence_ids": [
-      "evidence_0084"
+      "evidence_fouju_20261106_069"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "claim_qual_20261106_0091",
+    "subject_id": "actor_0091",
+    "project_id": "project_fouju",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Le député écologiste Arnaud Bonnet qualifie l'implication de capitaux émiratis dans le projet de Fouju de risque pour l'indépendance numérique et de fausse bonne idée.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_fouju_20261106_070"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-06"
   }
 ]

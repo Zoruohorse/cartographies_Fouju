@@ -1,0 +1,221 @@
+{
+  "griefs": [
+    {
+      "title": "⚖️ Six recours déposés contre les autorisations",
+      "text": "Un collectif comprenant FNE, Terre de Liens, la Confédération paysanne et les Amis de la Terre a annoncé six recours fin septembre 2026, détaillés le 9 octobre. Ils visent le PLU, l'autorisation RTE et quatre autorisations environnementales; le contentieux ne signifie pas l'annulation des décisions.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_073",
+        "evidence_fouju_20261106_079"
+      ]
+    },
+    {
+      "title": "🌾 Artificialisation des terres et patrimoine agricole",
+      "text": "Aline Aurias, Pauline Isambert et les associations requérantes contestent l'usage de terres agricoles pour un campus qui serait développé sur environ 70 hectares selon la CNDP. Le périmètre foncier et l'emprise artificialisée ne doivent pas être assimilés.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_003",
+        "evidence_fouju_20261106_057",
+        "evidence_fouju_20261106_077"
+      ]
+    },
+    {
+      "title": "💧 Eau et refroidissement",
+      "text": "Des riverains et associations réclament des garanties hydrologiques; Christian Poteau affirme avoir posé une condition d'absence de prélèvement dans la nappe. Il faut vérifier les dispositifs techniques et autorisations, sans affirmer une pollution ou un prélèvement non mesuré.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_021",
+        "evidence_fouju_20261106_082",
+        "evidence_fouju_20261106_015"
+      ]
+    },
+    {
+      "title": "☁️ Électricité, capacité RTE et sobriété",
+      "text": "Les porteurs visent 1,4 GW à terme, mais la réponse du Gouvernement au Sénat du 30 juillet 2026 mentionne 700 MW contractualisés avec RTE. Des critiques interrogent les arbitrages d'allocation de l'électricité. Capacité souscrite, besoin futur et consommation annuelle sont des grandeurs différentes.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_074",
+        "evidence_fouju_20261106_012",
+        "evidence_fouju_20261106_077"
+      ]
+    },
+    {
+      "title": "🏛️ Participation et concertation",
+      "text": "Jane Buisson et FNE ont demandé un allongement de l'enquête et davantage de réunions. La concertation CNDP 2025 et l'enquête publique du printemps 2026 sont deux procédures différentes; la commission d'enquête a rendu un avis favorable.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_002",
+        "evidence_fouju_20261106_078",
+        "evidence_fouju_20261106_072"
+      ]
+    },
+    {
+      "title": "⚗️ Générateurs de secours, pollution et règles Seveso",
+      "text": "Les associations, par la voix de Louis Cofflard, contestent le découpage en trois sociétés exploitantes et mettent en avant les règles Seveso; d'autres acteurs redoutent d'éventuels rejets. Ces allégations ne sont pas des infractions constatées ou des niveaux de PFAS mesurés.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_068",
+        "evidence_fouju_20261106_086",
+        "evidence_fouju_20261106_084"
+      ]
+    },
+    {
+      "title": "🔒 Souveraineté numérique et contrôle capitalistique",
+      "text": "Le projet est porté par Campus IA dont MGX, Bpifrance, Nvidia et Mistral AI sont actionnaires selon la CNDP; le gouvernement invoque la souveraineté tandis que des chercheurs et commentateurs interrogent le contrôle international. Ni la localisation ni les nationalités des financeurs ne suffisent à établir le régime des données traitées.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_076",
+        "evidence_fouju_20261106_010",
+        "evidence_fouju_20261106_008"
+      ]
+    },
+    {
+      "title": "🏘️ Retombées économiques et acceptabilité",
+      "text": "Jonathan Wochenmayer, Christian Poteau et Jean-Louis Thiériot soutiennent le projet pour des raisons économiques ou industrielles. Les riverains expriment des attentes divergentes et des interrogations sur les nuisances; les emplois et recettes annoncés restent prospectifs.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_019",
+        "evidence_fouju_20261106_021",
+        "evidence_fouju_20261106_020",
+        "evidence_fouju_20261106_060"
+      ]
+    }
+  ],
+  "vigilance": [
+    {
+      "title": "État juridique des recours",
+      "text": "Six recours annoncés en octobre 2026 ne constituent pas un jugement au fond. Un recours supplémentaire contre le permis était envisagé, non démontré comme déposé au 6 novembre dans les sources retenues.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_073"
+      ]
+    },
+    {
+      "title": "Arrêtés administratifs de juillet 2026",
+      "text": "Le préfet a pris le 29 juillet 2026 une autorisation environnementale générale et plusieurs autorisations ICPE propres à trois datacenters ; ne pas confondre avec une autorisation définitive de toutes les futures tranches.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_071"
+      ]
+    },
+    {
+      "title": "Puissance électrique",
+      "text": "700 MW sont contractualisés avec RTE selon une réponse ministérielle datée ; 1,4 GW est un besoin futur annoncé. Il n'est pas établi que 1,4 GW soient raccordés ou consommés.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_074"
+      ]
+    },
+    {
+      "title": "Surface et emprise",
+      "text": "La fiche CNDP indique environ 70 hectares ; les chiffres de 73 ou 90 hectares publiés ailleurs peuvent désigner des périmètres distincts.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_077"
+      ]
+    },
+    {
+      "title": "Juridiction et sociétés exploitantes",
+      "text": "Les requérants dénoncent un éventuel contournement Seveso lié au découpage du projet; ce grief est attribué à leurs représentants et non présenté comme jugement de fraude.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_086"
+      ]
+    },
+    {
+      "title": "Ressource en eau",
+      "text": "Absence de prélèvement dans la nappe affirmée comme condition par Christian Poteau; vérifier les pièces d'autorisation et les suivis effectifs.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_082"
+      ]
+    },
+    {
+      "title": "Générateurs et PFAS",
+      "text": "Les impacts atmosphériques sont contestés et certaines associations formulent des craintes; éviter de transformer des hypothèses ou des simulations en pollution observée.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_084"
+      ]
+    },
+    {
+      "title": "Emploi et fiscalité",
+      "text": "Les emplois, recettes et investissements projetés ne sont pas assimilables à des emplois déjà créés ou à des dépenses engagées.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_083"
+      ]
+    },
+    {
+      "title": "Mandats municipaux après mars 2026",
+      "text": "Jonathan Wochenmayer figure toujours parmi les élus comme maire de Fouju; à Crisenoy, Manuel Sirera a battu l'ancien maire Hervé Jeannin.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_081",
+        "evidence_fouju_20261106_080"
+      ]
+    },
+    {
+      "title": "Rôle institutionnel de RTE et de la préfecture",
+      "text": "Un gestionnaire de réseau ou une autorité ayant délivré une autorisation n'est pas, sur cette seule base, un partisan politique du projet.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_074",
+        "evidence_fouju_20261106_071"
+      ]
+    },
+    {
+      "title": "Statut de la première tranche",
+      "text": "La collectivité a annoncé le début des travaux préparatoires fin août 2026; la mise en service de datacenters et de leurs raccordements reste une étape distincte.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_075"
+      ]
+    },
+    {
+      "title": "Différence entre opposants directs et critiques sectorielles",
+      "text": "Les observations générales sur les data centers par un analyste ou une organisation ne prouvent pas leur opposition formelle à Fouju. Les fiches sans avis spécifique restent signalées comme telles.",
+      "evidence_ids": [
+        "evidence_fouju_20261106_012",
+        "evidence_fouju_20261106_065"
+      ]
+    }
+  ],
+  "sources": [
+    "source_fouju_lot_r4",
+    "source_fouju_lot_r6",
+    "source_fouju_lot_r10",
+    "source_fouju_lot_r14",
+    "source_fouju_lot_r15",
+    "source_fouju_lot_r18",
+    "source_fouju_lot_r22",
+    "source_fouju_lot_r23",
+    "source_fouju_lot_r24",
+    "source_fouju_lot_r25",
+    "source_fouju_lot_r29",
+    "source_fouju_lot_r30",
+    "source_fouju_lot_r32",
+    "source_fouju_lot_r37",
+    "source_fouju_lot_r42",
+    "source_fouju_lot_r43",
+    "source_fouju_lot_r45",
+    "source_fouju_lot_r47",
+    "source_fouju_lot_r48",
+    "source_fouju_lot_r49",
+    "source_fouju_lot_r51",
+    "source_fouju_lot_r54",
+    "source_fouju_lot_r55",
+    "source_fouju_lot_r56",
+    "source_fouju_lot_r58",
+    "source_fouju_lot_r64",
+    "source_fouju_lot_r68",
+    "source_fouju_lot_r69",
+    "source_fouju_lot_r70",
+    "source_fouju_lot_r71",
+    "source_fouju_lot_r74",
+    "source_fouju_lot_r75",
+    "source_fouju_lot_r76",
+    "source_fouju_lot_r78",
+    "source_fouju_lot_r85",
+    "source_fouju_lot_r86",
+    "source_fouju_lot_r87",
+    "source_fouju_lot_r88",
+    "source_fouju_lot_r89",
+    "source_fouju_lot_r90",
+    "source_fouju_lot_r97",
+    "source_fouju_off_pref",
+    "source_fouju_off_cndp",
+    "source_fouju_off_fnepress",
+    "source_fouju_off_commune",
+    "source_fouju_off_rte",
+    "source_fouju_off_senat",
+    "source_fouju_off_foujuelus",
+    "source_fouju_off_crisenoy",
+    "source_fouju_off_enquete",
+    "source_fouju_off_stop",
+    "source_fouju_off_senguhl"
+  ],
+  "method": "Ne retenir une opposition ou un soutien que si une déclaration ou une participation directe est documentée; les positions non établies ne sont pas présumées neutres. Assertions contestées formulées au conditionnel. Source URL cliquable obligatoire.",
+  "updated_at": "2026-11-06"
+}

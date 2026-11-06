@@ -112,22 +112,6 @@
     "updated_at": "2026-10-02"
   },
   {
-    "id": "actor_0007",
-    "type": "person",
-    "name": "Anne-Laure Ligozat",
-    "short_name": "Anne-Laure Ligozat",
-    "description": "Professeure au LISN",
-    "roles": [
-      {
-        "label": "Professeure au LISN"
-      }
-    ],
-    "categories": [
-      "opposants"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
     "id": "actor_0008",
     "type": "person",
     "name": "Marie Garin",
@@ -136,22 +120,6 @@
     "roles": [
       {
         "label": "Chercheuse postdoctorante au CNRS"
-      }
-    ],
-    "categories": [
-      "opposants"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0009",
-    "type": "organization",
-    "name": "Marlène De Bank",
-    "short_name": "Marlène De Bank",
-    "description": "The Shift Project",
-    "roles": [
-      {
-        "label": "The Shift Project"
       }
     ],
     "categories": [
@@ -208,22 +176,6 @@
     "updated_at": "2026-10-02"
   },
   {
-    "id": "actor_0013",
-    "type": "person",
-    "name": "Nadia Salhi",
-    "short_name": "Nadia Salhi",
-    "description": "Déléguée syndicale CGT chez STMicroelectronics",
-    "roles": [
-      {
-        "label": "Déléguée syndicale CGT chez STMicroelectronics"
-      }
-    ],
-    "categories": [
-      "opposants"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
     "id": "actor_0014",
     "type": "person",
     "name": "Laurence Allard",
@@ -258,9 +210,9 @@
   {
     "id": "actor_0016",
     "type": "person",
-    "name": "Habitants Fernique",
-    "short_name": "Habitants Fernique",
-    "description": "Habitants de Fouju",
+    "name": "Famille Fernique (riverains)",
+    "short_name": "Famille Fernique",
+    "description": "Riverains de Fouju suivant la concertation; opinion individuelle non établie",
     "roles": [
       {
         "label": "Habitants de Fouju"
@@ -296,22 +248,6 @@
     "roles": [
       {
         "label": "Maraîchère biologique"
-      }
-    ],
-    "categories": [
-      "opposants"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0019",
-    "type": "person",
-    "name": "Marie-Paule Direur",
-    "short_name": "Marie-Paule Direur",
-    "description": "Habitante mobilisée au Bourget",
-    "roles": [
-      {
-        "label": "Habitante mobilisée au Bourget"
       }
     ],
     "categories": [
@@ -360,38 +296,6 @@
     "roles": [
       {
         "label": "Maire-adjointe socialiste de Moissy-Cramayel"
-      }
-    ],
-    "categories": [
-      "elus-opp"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0023",
-    "type": "organization",
-    "name": "Jean-Luc Mélenchon",
-    "short_name": "Jean-Luc Mélenchon",
-    "description": "Figure nationale LFI",
-    "roles": [
-      {
-        "label": "Figure nationale LFI"
-      }
-    ],
-    "categories": [
-      "elus-opp"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0024",
-    "type": "organization",
-    "name": "Députés socialistes",
-    "short_name": "Députés socialistes",
-    "description": "Groupe socialiste à l’Assemblée nationale",
-    "roles": [
-      {
-        "label": "Groupe socialiste à l’Assemblée nationale"
       }
     ],
     "categories": [
@@ -452,7 +356,7 @@
     "type": "person",
     "name": "Hervé Jeannin",
     "short_name": "Hervé Jeannin",
-    "description": "Maire de Crisenoy",
+    "description": "Ancien maire de Crisenoy (jusqu'aux élections municipales 2026)",
     "roles": [
       {
         "label": "Maire de Crisenoy"
@@ -472,22 +376,6 @@
     "roles": [
       {
         "label": "Sénateur RN de Seine-et-Marne"
-      }
-    ],
-    "categories": [
-      "elus-fav"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0030",
-    "type": "person",
-    "name": "Denis Larghero",
-    "short_name": "Denis Larghero",
-    "description": "Maire UDI de Meudon",
-    "roles": [
-      {
-        "label": "Maire UDI de Meudon"
       }
     ],
     "categories": [
@@ -664,22 +552,6 @@
     "roles": [
       {
         "label": "Syndicat sectoriel"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0042",
-    "type": "organization",
-    "name": "Solidaires Essonne",
-    "short_name": "Solidaires Essonne",
-    "description": "Structure syndicale locale",
-    "roles": [
-      {
-        "label": "Structure syndicale locale"
       }
     ],
     "categories": [
@@ -912,158 +784,14 @@
     "updated_at": "2026-10-02"
   },
   {
-    "id": "actor_0057",
-    "type": "organization",
-    "name": "L’Européenne",
-    "short_name": "L’Européenne",
-    "description": "Ancien porteur du projet logistique",
-    "roles": [
-      {
-        "label": "Ancien porteur du projet logistique"
-      }
-    ],
-    "categories": [
-      "porteurs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
     "id": "actor_0058",
     "type": "organization",
-    "name": "Commissaire-enquêteur",
-    "short_name": "Commissaire-enquêteur",
-    "description": "Autorité indépendante",
+    "name": "Commission d'enquête publique",
+    "short_name": "Commission d'enquête",
+    "description": "Commission indépendante ayant rendu son rapport le 2 juillet 2026",
     "roles": [
       {
         "label": "Autorité indépendante"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0059",
-    "type": "organization",
-    "name": "Printemps des luttes locales",
-    "short_name": "Printemps des luttes locales",
-    "description": "Réseau militant",
-    "roles": [
-      {
-        "label": "Réseau militant"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0060",
-    "type": "organization",
-    "name": "Le Nuage était sous nos pieds",
-    "short_name": "Le Nuage était sous nos pieds",
-    "description": "Collectif techno-critique marseillais",
-    "roles": [
-      {
-        "label": "Collectif techno-critique marseillais"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0061",
-    "type": "organization",
-    "name": "Collectif du Bourget",
-    "short_name": "Collectif du Bourget",
-    "description": "Collectif local",
-    "roles": [
-      {
-        "label": "Collectif local"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0062",
-    "type": "organization",
-    "name": "Collectif de Vitry-sur-Seine",
-    "short_name": "Collectif de Vitry-sur-Seine",
-    "description": "Collectif citoyen",
-    "roles": [
-      {
-        "label": "Collectif citoyen"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0063",
-    "type": "organization",
-    "name": "Collectif de Wissous",
-    "short_name": "Collectif de Wissous",
-    "description": "Collectif francilien",
-    "roles": [
-      {
-        "label": "Collectif francilien"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0064",
-    "type": "organization",
-    "name": "La Quadrature du Net",
-    "short_name": "La Quadrature du Net",
-    "description": "Association de défense des libertés numériques",
-    "roles": [
-      {
-        "label": "Association de défense des libertés numériques"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0065",
-    "type": "organization",
-    "name": "Hiatus",
-    "short_name": "Hiatus",
-    "description": "Collectif d’analyse techno-critique",
-    "roles": [
-      {
-        "label": "Collectif d’analyse techno-critique"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0066",
-    "type": "organization",
-    "name": "STopMicro",
-    "short_name": "STopMicro",
-    "description": "Collectif techno-critique grenoblois",
-    "roles": [
-      {
-        "label": "Collectif techno-critique grenoblois"
       }
     ],
     "categories": [
@@ -1100,38 +828,6 @@
     ],
     "categories": [
       "elus-opp"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0069",
-    "type": "organization",
-    "name": "Valérie Masson-Delmotte",
-    "short_name": "Valérie Masson-Delmotte",
-    "description": "Paléoclimatologue",
-    "roles": [
-      {
-        "label": "Paléoclimatologue"
-      }
-    ],
-    "categories": [
-      "opposants"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0070",
-    "type": "person",
-    "name": "Jean Guiony",
-    "short_name": "Jean Guiony",
-    "description": "Urbaniste",
-    "roles": [
-      {
-        "label": "Urbaniste"
-      }
-    ],
-    "categories": [
-      "opposants"
     ],
     "updated_at": "2026-10-02"
   },
@@ -1284,7 +980,7 @@
     "type": "person",
     "name": "Manuel Sirera",
     "short_name": "Manuel Sirera",
-    "description": "Maire de Crisenoy",
+    "description": "Maire de Crisenoy élu en mars 2026",
     "roles": [
       {
         "label": "Maire de Crisenoy"
@@ -1344,38 +1040,6 @@
     "updated_at": "2026-10-02"
   },
   {
-    "id": "actor_0084",
-    "type": "organization",
-    "name": "Data Center Watch",
-    "short_name": "Data Center Watch",
-    "description": "Institut de suivi des centres de données",
-    "roles": [
-      {
-        "label": "Institut de suivi des centres de données"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
-    "id": "actor_0085",
-    "type": "organization",
-    "name": "The Shift Project",
-    "short_name": "The Shift Project",
-    "description": "Think tank",
-    "roles": [
-      {
-        "label": "Think tank"
-      }
-    ],
-    "categories": [
-      "orgs"
-    ],
-    "updated_at": "2026-10-02"
-  },
-  {
     "id": "actor_0086",
     "type": "organization",
     "name": "Observatoire des multinationales",
@@ -1390,5 +1054,90 @@
       "orgs"
     ],
     "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0087",
+    "type": "actor",
+    "name": "R.E.N.A.R.D",
+    "short_name": "R.E.N.A.R.D",
+    "description": "Association environnementale requérante",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Association environnementale requérante"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "actor_0088",
+    "type": "actor",
+    "name": "Terre de Liens Île-de-France",
+    "short_name": "Terre de Liens Île-de-France",
+    "description": "Organisation de défense du foncier agricole requérante",
+    "categories": [
+      "orgs"
+    ],
+    "roles": [
+      {
+        "label": "Organisation de défense du foncier agricole requérante"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "actor_0089",
+    "type": "actor",
+    "name": "Louis Cofflard",
+    "short_name": "Louis Cofflard",
+    "description": "Avocat des associations contestant les autorisations du Campus IA",
+    "categories": [
+      "opposants"
+    ],
+    "roles": [
+      {
+        "label": "Avocat des associations contestant les autorisations du Campus IA"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "actor_0090",
+    "type": "actor",
+    "name": "Antoinette Guhl",
+    "short_name": "Antoinette Guhl",
+    "description": "Sénatrice ayant interpellé le gouvernement sur le projet",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Sénatrice ayant interpellé le gouvernement sur le projet"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-06"
+  },
+  {
+    "id": "actor_0091",
+    "type": "actor",
+    "name": "Arnaud Bonnet",
+    "short_name": "Arnaud Bonnet",
+    "description": "Député écologiste de Seine-et-Marne critique du projet",
+    "categories": [
+      "elus-opp"
+    ],
+    "roles": [
+      {
+        "label": "Député écologiste de Seine-et-Marne critique du projet"
+      }
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-06"
   }
 ]

@@ -9,15 +9,15 @@
       "color": "#0f172a"
     },
     "opposants": {
-      "label": "Opposants et experts",
+      "label": "Habitants, experts et contributeurs",
       "color": "#ef4444"
     },
     "elus-opp": {
-      "label": "Élus opposés ou critiques",
+      "label": "Élus et personnalités critiques",
       "color": "#8b5cf6"
     },
     "elus-fav": {
-      "label": "Élus favorables ou prudents",
+      "label": "Élus et autorités publiques",
       "color": "#2563eb"
     },
     "orgs": {
@@ -25,7 +25,7 @@
       "color": "#10b981"
     },
     "porteurs": {
-      "label": "Porteurs et économie",
+      "label": "Porteurs, partenaires et filière",
       "color": "#312e81"
     }
   },
@@ -43,8 +43,12 @@
       "color": "#22c55e"
     },
     "neutral": {
-      "label": "Prudent ou ambigu",
+      "label": "Prudent / critique / rôle institutionnel",
       "color": "#f59e0b"
+    },
+    "unknown": {
+      "label": "Position non établie",
+      "color": "#94a3b8"
     }
   },
   "certainty_levels": {
