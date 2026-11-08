@@ -56,3 +56,16 @@ python3 validate.py
 ```
 
 Détails de l'audit et noms écartés : [AUDIT_QUALIFICATION_2026-11-06.md](AUDIT_QUALIFICATION_2026-11-06.md).
+
+
+## Cinquième onglet : Évolution des acteurs — 8 novembre 2026
+
+La vue cartes comporte désormais cinq onglets : **Cartographie des acteurs**, **Synthèse des oppositions**, **Points de vigilance et sources**, **Évolution des acteurs**, **Chronologie**.
+
+Le nouvel onglet utilise `data/timeline.json`, en conservant les **70 acteurs existants** : **65 ont une date documentaire exploitable** et **5 restent dans une rubrique distincte faute de datation fiable**. Les entrées sont sourcées avec des URL dans `data/sources.json` et des preuves dédiées dans `data/evidence.json`. La visualisation offre un histogramme empilé, un affichage mensuel **Nouveaux/Cumulés**, des filtres par typologie et la liste nominative des acteurs avec les sources de datation.
+
+Une « première apparition documentaire » n'est pas une première prise de position historique. Certaines dates désignent une réunion relatée dans un article postérieur ou une annonce reconstituée rétrospectivement. Quand seule la période mensuelle est vérifiable, la date reste au format `AAAA-MM` : aucun premier jour fictif du mois n'est inventé. Les dates de simple actualisation GitHub ou les échéances prospectives de 2028/2038 ne sont pas comptées.
+
+**Acteurs non datés dans l'état du corpus** : Aline Aurias, Jean-Louis Thiériot, Hervé Jeannin, Valérie Pécresse et Terres de luttes. Ils restent présents dans la cartographie mais sont exclus du graphique, avec la raison affichée. Les fichiers `actors.json`, `claims.json`, `relations.json` et `sources.json` n'ont pas été modifiés.
+
+Audit complet : [data/evolution-audit-20261108.json](data/evolution-audit-20261108.json). Contrôle : `python3 validate.py`.
