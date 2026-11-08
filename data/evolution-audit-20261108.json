@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-08",
+  "repository": "Zoruohorse/cartographies_Fouju",
+  "purpose": "Ajouter l'onglet « Évolution des acteurs » sur le référentiel Fouju déjà qualifié, en préservant les quatre onglets et les fiches.",
+  "initial": {
+    "entities": 71,
+    "positions": 70,
+    "relations": 77,
+    "evidence": 87,
+    "sources": 52
+  },
+  "result": {
+    "dated_actor_count": 65,
+    "undated_actor_count": 5,
+    "month_distribution": {
+      "2025-02": 5,
+      "2025-11": 6,
+      "2026-02": 1,
+      "2026-04": 1,
+      "2026-05": 27,
+      "2026-06": 6,
+      "2026-07": 4,
+      "2026-08": 6,
+      "2026-09": 2,
+      "2026-10": 7
+    },
+    "type_distribution": {
+      "elus": 13,
+      "entreprises": 9,
+      "habitants": 22,
+      "institutions": 4,
+      "collectifs": 17
+    },
+    "added_evidence": 25,
+    "timeline_events": 70
+  },
+  "method": [
+    "Date d'un acte ou d'une réunion explicitement mentionnée par une source",
+    "Date de publication exacte si établie",
+    "Date de mois lorsque le jour n'est pas prouvé",
+    "Mention rétrospective de février 2025 distinguée de la date de l'enquête de mai 2026",
+    "Acteurs insuffisamment datés affichés hors graphique",
+    "Cumul par acteur, sans compter les nouvelles mentions du même acteur plusieurs fois",
+    "Aucune modification aux acteurs, positions, relations ou sources préexistants"
+  ],
+  "exclusions": [
+    {
+      "actor_id": "actor_0003",
+      "reason": "Position documentée par France 3 dans la base actuelle, mais date de l'article non confirmée ; ne pas inventer de jour ou de mois."
+    },
+    {
+      "actor_id": "actor_0026",
+      "reason": "Interview sur le Campus IA connue, mais date de publication de l'entretien Actu.fr non confirmée."
+    },
+    {
+      "actor_id": "actor_0028",
+      "reason": "Élection municipale datable en mars 2026, mais ce fait électoral ne permet pas de dater une première position propre sur Campus IA."
+    },
+    {
+      "actor_id": "actor_0032",
+      "reason": "Analyse régionale retrouvée, mais article Mesinfos sans date de publication directement vérifiable."
+    },
+    {
+      "actor_id": "actor_0083",
+      "reason": "Mobilisation relayée via une publication Facebook sans date de publication fiable récupérable."
+    }
+  ],
+  "warnings": [
+    "Une date d'apparition identifiée dans le corpus n'est pas nécessairement la première intervention publique historique.",
+    "Un article non consultable sans abonnement ou soumis à des blocages peut être daté par son URL ou par le texte du classeur ; la vérification est signalée dans date_basis.",
+    "Les acteurs avec une opinion inconnue peuvent être comptés en tant que participants documentaires, mais pas comme opposants.",
+    "Les données de l'échéancier du projet (2028, 2038) ne sont jamais utilisées comme dates d'entrée des acteurs."
+  ]
+}

@@ -1129,5 +1129,330 @@
     "verification": "page_publique_revue",
     "recorded_at": "2026-11-06",
     "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0001",
+    "type": "documentary_timeline_context",
+    "text": "Jean-François Dupont — Jean-François Dupont (FNE 77) conteste publiquement la structuration réglementaire et participe au recours associatif contre les autorisations de Campus IA. Repère de datation : Le reportage Basta! du 21 mai situe l'intervention de Jean-François Dupont au rassemblement du 13 mai.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0002",
+    "type": "documentary_timeline_context",
+    "text": "Jane Buisson — Jane Buisson, vice-présidente de FNE 77, a participé à une démarche demandant une prolongation de l'enquête publique et une nouvelle réunion d'information. Repère de datation : Le reportage Le Monde du 14 mai situe Jean-François Dupont et Jane Buisson ensemble à Fouju le 13 mai.",
+    "source_id": "source_fouju_lot_r71",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0012",
+    "type": "documentary_timeline_context",
+    "text": "Olivier Petitjean — Olivier Petitjean, de l'Observatoire des multinationales, documente l'actionnariat de Campus IA ; cette enquête n'établit pas à elle seule son opposition personnelle au projet. Repère de datation : Date de l'enquête de l'Observatoire des multinationales, signée Olivier Petitjean.",
+    "source_id": "source_fouju_lot_r78",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0020",
+    "type": "documentary_timeline_context",
+    "text": "Arnaud Saint-Martin — Le député Arnaud Saint-Martin critique explicitement l'ampleur énergétique, foncière et économique de Campus IA, tout en précisant ne pas être opposé par principe à tous les centres de données. Repère de datation : Député présent au rassemblement du 13 mai selon le reportage Basta! du 21 mai.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0021",
+    "type": "documentary_timeline_context",
+    "text": "Marianne Margaté — La sénatrice Marianne Margaté critique le modèle de territoire supportant les nuisances et s'inquiète du bruit, de la chaleur et de l'éclairage projetés. Repère de datation : Question écrite originale au Sénat publiée le 28 mai 2026, source institutionnelle datée.",
+    "source_id": "source_fouju_off_senat",
+    "source_ids": [
+      "source_fouju_off_senat"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0025",
+    "type": "documentary_timeline_context",
+    "text": "Jonathan Wochenmayer — Le maire de Fouju Jonathan Wochenmayer défend l'accueil du campus sur une zone qu'il juge relativement moins impactante et fait valoir les recettes possibles pour la commune. Repère de datation : Le maire Jonathan Wochenmayer est nommément cité et sa position caractérisée dans Vert du 24 mai.",
+    "source_id": "source_fouju_lot_r64",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0031",
+    "type": "documentary_timeline_context",
+    "text": "Emmanuel Macron — Emmanuel Macron a mis en avant Campus IA parmi les annonces d'investissements liées à l'intelligence artificielle et à Choose France ; il s'agit d'un soutien politique au programme. Repère de datation : L'enquête de l'Observatoire du 7 mai 2026 situe la première annonce présidentielle au sommet IA de février 2025 ; jour non retenu.",
+    "source_id": "source_fouju_lot_r78",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0033",
+    "type": "documentary_timeline_context",
+    "text": "FNE 77 — FNE Seine-et-Marne fait partie des associations requérantes ayant engagé six recours contre les décisions relatives à Fouju. Repère de datation : FNE 77 identifiée au rassemblement du 13 mai dans Basta! du 21 mai.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0035",
+    "type": "documentary_timeline_context",
+    "text": "Les Soulèvements de la Terre — Les Soulèvements de la Terre sont mentionnés parmi les organisations de la mobilisation contre le campus de Fouju, notamment lors des initiatives publiques du collectif. Repère de datation : Les Soulèvements de la Terre sont cités parmi les organisations mobilisées le 13 mai selon Basta!.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0047",
+    "type": "documentary_timeline_context",
+    "text": "Stop Campus IA — Le collectif Stop Campus IA publie une pétition, des ressources de mobilisation et des documents contestant explicitement l'installation de Campus IA à Fouju. Repère de datation : L'article de mai sur les opposants identifie Stop Campus IA, sous réserve de la date confirmée par l'agrégateur.",
+    "source_id": "source_fouju_lot_r69",
+    "source_ids": [
+      "source_fouju_lot_r69"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0048",
+    "type": "documentary_timeline_context",
+    "text": "Thibaud Desfossés — Thibaud Desfossés, dirigeant du projet Campus IA, défend sa réalisation et sa justification industrielle et numérique dans un entretien public. Repère de datation : Next daté du 18 novembre confirme que Thibaud Desfossés a présenté Campus IA lors de la réunion du 17 novembre 2025.",
+    "source_id": "source_fouju_lot_r88",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0049",
+    "type": "documentary_timeline_context",
+    "text": "MGX — MGX est l'un des quatre actionnaires identifiés par la CNDP de la société Campus IA, responsable du projet de datacenters à Fouju. Repère de datation : Observatoire des multinationales : annonce du projet au Sommet IA de février 2025, MGX parmi les partenaires ; source rétrospective du 7 mai 2026.",
+    "source_id": "source_fouju_lot_r78",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0050",
+    "type": "documentary_timeline_context",
+    "text": "Bpifrance — Bpifrance figure parmi les quatre actionnaires de la société Campus IA présentés sur la fiche institutionnelle de la CNDP. Repère de datation : Observatoire des multinationales : consortium annoncé en février 2025, mention de Bpifrance ; précision mensuelle conservée.",
+    "source_id": "source_fouju_lot_r78",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0051",
+    "type": "documentary_timeline_context",
+    "text": "Eiffage Énergie Systèmes — Eiffage Énergie Systèmes est présenté comme entreprise retenue sur un volet d'infrastructures du projet Campus IA ; la participation économique documentée n'est pas un soutien politique. Repère de datation : Réponse ministérielle au Sénat du 30 juillet 2026 citant expressément Eiffage retenue pour la sous-station et les infrastructures communes.",
+    "source_id": "source_fouju_off_senat",
+    "source_ids": [
+      "source_fouju_off_senat"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0052",
+    "type": "documentary_timeline_context",
+    "text": "Nvidia — Nvidia est identifié par la CNDP parmi les actionnaires de Campus IA ; cette participation au consortium ne prouve pas l'attribution de contrats de tous les équipements de calcul. Repère de datation : Observatoire des multinationales : Nvidia mentionnée dans l'annonce du projet au Sommet IA de février 2025.",
+    "source_id": "source_fouju_lot_r78",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0053",
+    "type": "documentary_timeline_context",
+    "text": "Mistral AI — Mistral AI figure parmi les actionnaires de Campus IA, selon la CNDP ; la réponse ministérielle évoque un accès privilégié à ses capacités. Repère de datation : Observatoire des multinationales : Mistral AI mentionnée dans l'annonce du projet en février 2025.",
+    "source_id": "source_fouju_lot_r78",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0054",
+    "type": "documentary_timeline_context",
+    "text": "École Polytechnique — L'École polytechnique est citée comme partenaire académique dans un article sur l'écosystème de Campus IA ; aucun avis institutionnel autonome sur les autorisations n'est étayé. Repère de datation : L'enquête de l'Observatoire du 7 mai 2026 cite l'École polytechnique parmi les partenaires annoncés.",
+    "source_id": "source_fouju_lot_r78",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0055",
+    "type": "documentary_timeline_context",
+    "text": "RTE — RTE a contractualisé 700 MW avec Campus IA selon la réponse ministérielle du 30 juillet 2026 ; son rôle est celui du gestionnaire du réseau, pas une opinion politique de soutien. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel. Repère de datation : Le corpus officiel de concertation fait état d'un contrat de raccordement accéléré daté du 5 février 2026.",
+    "source_id": "source_fouju_off_rte",
+    "source_ids": [
+      "source_fouju_off_rte"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0056",
+    "type": "documentary_timeline_context",
+    "text": "MRAe — La MRAe a formulé des recommandations sur les impacts et besoins d'évaluation environnementale de Campus IA ; il s'agit d'un rôle d'expertise réglementaire, non d'une opposition militante. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel. Repère de datation : Vert du 24 mai date l'avis de la MRAe du mois d'avril 2026 ; jour exact non établi dans le corpus actuel.",
+    "source_id": "source_fouju_lot_r64",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0075",
+    "type": "documentary_timeline_context",
+    "text": "Maxime Colin — Maxime Colin, juriste de FNE Île-de-France, prend position dans le dossier de presse associatif contre les risques et les procédures du projet. Repère de datation : Le Monde du 14 mai 2026 cite Maxime Colin de FNE Île-de-France sur Fouju, avant les recours d'octobre.",
+    "source_id": "source_fouju_lot_r71",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0076",
+    "type": "documentary_timeline_context",
+    "text": "Pauline Isambert — Pauline Isambert, de la Confédération paysanne d'Île-de-France, qualifie le projet de non-sens écologique et critique l'artificialisation agricole. Repère de datation : Basta! du 21 mai 2026 cite Pauline Isambert au sujet des terres agricoles.",
+    "source_id": "source_fouju_lot_r68",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0077",
+    "type": "documentary_timeline_context",
+    "text": "Céline Malaisé — Céline Malaisé, conseillère régionale, critique l'urbanisation de terres et les modalités démocratiques du projet de Fouju. Repère de datation : Presse-citron du 28 août 2026 attribue des critiques à Céline Malaisé.",
+    "source_id": "source_fouju_lot_r29",
+    "source_ids": [
+      "source_fouju_lot_r29"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0081",
+    "type": "documentary_timeline_context",
+    "text": "Michael Reffay — Michaël Reffay, délégué général de France Datacenter, défend les effets possibles de Campus IA sur la souveraineté et le rapatriement de capacités numériques, dans un reportage de TF1. Repère de datation : Le Monde du 14 mai 2026 cite Michaël Reffay, représentant de la filière, en débat sur les datacenters.",
+    "source_id": "source_fouju_lot_r71",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0082",
+    "type": "documentary_timeline_context",
+    "text": "France Datacenter — France Datacenter, organisation professionnelle représentée par Michaël Reffay, défend l'intérêt industriel des capacités de calcul françaises dans le cadre du débat sur Fouju. Repère de datation : Intervention de Michaël Reffay dans Le Monde du 14 mai 2026, au titre de France Datacenter.",
+    "source_id": "source_fouju_lot_r71",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
+  },
+  {
+    "id": "evidence_fouju_evolution_20261108_0091",
+    "type": "documentary_timeline_context",
+    "text": "Arnaud Bonnet — Le député écologiste Arnaud Bonnet qualifie l'implication de capitaux émiratis dans le projet de Fouju de risque pour l'indépendance numérique et de fausse bonne idée. Repère de datation : Prise de position cosignée par Arnaud Bonnet sur le site Les Écologistes le 19 août 2026.",
+    "source_id": "source_fouju_lot_r32",
+    "source_ids": [
+      "source_fouju_lot_r32"
+    ],
+    "source_status": "qualified",
+    "verification": "chronologie_documentaire_corpus_et_publications_identifiees",
+    "recorded_at": "2026-11-08",
+    "status": "attributed_or_confirmed"
   }
 ]

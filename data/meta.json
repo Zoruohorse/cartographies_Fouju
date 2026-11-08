@@ -2,6 +2,7 @@
   "id": "project_fouju",
   "title": "Cartographie interactive — Campus IA Fouju",
   "subtitle": "Campus IA à Fouju : positions attribuées, recours, autorisations et réseau de relations fondés sur des URLs documentaires.",
-  "last_updated": "2026-11-06",
-  "data_notice": "Audit au 6 novembre 2026 : toutes les positions et relations conservées renvoient à des sources cliquables; les articles issus de Fouju.xlsx restent distingués des pages institutionnelles consultées. Les simples expertises sectorielles ne sont pas automatiquement des oppositions au campus. Le recours n'implique pas l'annulation des arrêtés."
+  "last_updated": "2026-11-08",
+  "data_notice": "Audit au 6 novembre 2026 : toutes les positions et relations conservées renvoient à des sources cliquables; les articles issus de Fouju.xlsx restent distingués des pages institutionnelles consultées. Les simples expertises sectorielles ne sont pas automatiquement des oppositions au campus. Le recours n'implique pas l'annulation des arrêtés. Onglet Évolution ajouté le 8 novembre 2026 : 65 acteurs datables dans le corpus (jour précis ou mois seulement), 5 hors histogramme faute de datation vérifiable. Les dates décrivent des premières apparitions documentaires identifiées, pas les premières prises de position historiques.",
+  "evolution_note": "La série utilise les sources existantes, les faits institutionnels et les dates explicites des articles. Les datations rétrospectives et mensuelles sont signalées ; ne pas comparer les barres à une évolution d'opinions."
 }

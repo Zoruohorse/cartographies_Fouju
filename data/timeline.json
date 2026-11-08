@@ -1,0 +1,1467 @@
+[
+  {
+    "id": "timeline_fouju_0031",
+    "actor_id": "actor_0031",
+    "event_type": "first_documented_appearance",
+    "date": "2025-02",
+    "date_precision": "month",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0031"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "retrospective_month",
+    "date_basis": "L'enquête de l'Observatoire du 7 mai 2026 situe la première annonce présidentielle au sommet IA de février 2025 ; jour non retenu.",
+    "summary": "Emmanuel Macron a mis en avant Campus IA parmi les annonces d'investissements liées à l'intelligence artificielle et à Choose France ; il s'agit d'un soutien politique au programme.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0049",
+    "actor_id": "actor_0049",
+    "event_type": "first_documented_appearance",
+    "date": "2025-02",
+    "date_precision": "month",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0049"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "retrospective_month",
+    "date_basis": "Observatoire des multinationales : annonce du projet au Sommet IA de février 2025, MGX parmi les partenaires ; source rétrospective du 7 mai 2026.",
+    "summary": "MGX est l'un des quatre actionnaires identifiés par la CNDP de la société Campus IA, responsable du projet de datacenters à Fouju.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0050",
+    "actor_id": "actor_0050",
+    "event_type": "first_documented_appearance",
+    "date": "2025-02",
+    "date_precision": "month",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0050"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "retrospective_month",
+    "date_basis": "Observatoire des multinationales : consortium annoncé en février 2025, mention de Bpifrance ; précision mensuelle conservée.",
+    "summary": "Bpifrance figure parmi les quatre actionnaires de la société Campus IA présentés sur la fiche institutionnelle de la CNDP.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0052",
+    "actor_id": "actor_0052",
+    "event_type": "first_documented_appearance",
+    "date": "2025-02",
+    "date_precision": "month",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0052"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "retrospective_month",
+    "date_basis": "Observatoire des multinationales : Nvidia mentionnée dans l'annonce du projet au Sommet IA de février 2025.",
+    "summary": "Nvidia est identifié par la CNDP parmi les actionnaires de Campus IA ; cette participation au consortium ne prouve pas l'attribution de contrats de tous les équipements de calcul.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0053",
+    "actor_id": "actor_0053",
+    "event_type": "first_documented_appearance",
+    "date": "2025-02",
+    "date_precision": "month",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0053"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "retrospective_month",
+    "date_basis": "Observatoire des multinationales : Mistral AI mentionnée dans l'annonce du projet en février 2025.",
+    "summary": "Mistral AI figure parmi les actionnaires de Campus IA, selon la CNDP ; la réponse ministérielle évoque un accès privilégié à ses capacités.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0048",
+    "actor_id": "actor_0048",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0048"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "event",
+    "date_basis": "Next daté du 18 novembre confirme que Thibaud Desfossés a présenté Campus IA lors de la réunion du 17 novembre 2025.",
+    "summary": "Thibaud Desfossés, dirigeant du projet Campus IA, défend sa réalisation et sa justification industrielle et numérique dans un entretien public.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-18",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_008"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication",
+    "date_basis": "Date de publication de Next confirmée ; propos restitués dans le corpus source (article partiellement réservé aux abonnés).",
+    "summary": "Ophélie Coelho interroge le sens de la souveraineté numérique et le calendrier de concertation de Campus IA ; ses propos ne constituent pas nécessairement une demande d'abandon.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-18",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r87"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_009"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Date intégrée dans l'URL de la tribune du Nouvel Obs.",
+    "summary": "Irénée Régnauld cosigne avec Arnaud Saint-Martin une tribune contestant l'implantation agricole et le gigantisme du projet actuel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-18",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_013"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication",
+    "date_basis": "Reportage Next du 18 novembre sur la rencontre du 17 novembre ; occurrence identifiée dans le corpus XLSX, hors extrait public payant.",
+    "summary": "Une famille de riverains de Fouju désignée comme famille Fernique suit les réunions publiques ; le passage documente leur participation, sans établir une position univoque.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0017",
+    "actor_id": "actor_0017",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-18",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_014"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication",
+    "date_basis": "Reportage Next du 18 novembre sur la rencontre du 17 novembre ; occurrence identifiée dans le corpus XLSX, hors extrait public payant.",
+    "summary": "Christine Scialom, riveraine de Fouju, est citée parmi les participants assidus à la concertation de 2025 ; aucun avis explicite n'est attribué dans cette source.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0029",
+    "actor_id": "actor_0029",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-18",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r88"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_023"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication",
+    "date_basis": "Aymeric Durox est mentionné dans l'article Next du 18 novembre selon le corpus fourni, partie payante non reconsultée.",
+    "summary": "Le sénateur Aymeric Durox explique lors d'une réunion publique qu'il préfère l'implantation de Campus IA en France plutôt que dans un pays voisin.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0055",
+    "actor_id": "actor_0055",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-05",
+    "date_precision": "day",
+    "category": "institutions",
+    "source_ids": [
+      "source_fouju_off_rte"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0055"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_event",
+    "date_basis": "Le corpus officiel de concertation fait état d'un contrat de raccordement accéléré daté du 5 février 2026.",
+    "summary": "RTE a contractualisé 700 MW avec Campus IA selon la réponse ministérielle du 30 juillet 2026 ; son rôle est celui du gestionnaire du réseau, pas une opinion politique de soutien. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0056",
+    "actor_id": "actor_0056",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04",
+    "date_precision": "month",
+    "category": "institutions",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0056"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "retrospective_month",
+    "date_basis": "Vert du 24 mai date l'avis de la MRAe du mois d'avril 2026 ; jour exact non établi dans le corpus actuel.",
+    "summary": "La MRAe a formulé des recommandations sur les impacts et besoins d'évaluation environnementale de Campus IA ; il s'agit d'un rôle d'expertise réglementaire, non d'une opposition militante. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-07",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0012"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Date de l'enquête de l'Observatoire des multinationales, signée Olivier Petitjean.",
+    "summary": "Olivier Petitjean, de l'Observatoire des multinationales, documente l'actionnariat de Campus IA ; cette enquête n'établit pas à elle seule son opposition personnelle au projet.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0054",
+    "actor_id": "actor_0054",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-07",
+    "date_precision": "day",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0054"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "L'enquête de l'Observatoire du 7 mai 2026 cite l'École polytechnique parmi les partenaires annoncés.",
+    "summary": "L'École polytechnique est citée comme partenaire académique dans un article sur l'écosystème de Campus IA ; aucun avis institutionnel autonome sur les autorisations n'est étayé.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0086",
+    "actor_id": "actor_0086",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-07",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r78"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_065"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Publication de l'enquête de l'Observatoire des multinationales le 7 mai 2026.",
+    "summary": "L'Observatoire des multinationales publie une enquête sur la structure de financement et l'influence de MGX ; ce travail journalistique ne prouve pas à lui seul une opposition institutionnelle formelle.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0001",
+    "actor_id": "actor_0001",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0001"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "Le reportage Basta! du 21 mai situe l'intervention de Jean-François Dupont au rassemblement du 13 mai.",
+    "summary": "Jean-François Dupont (FNE 77) conteste publiquement la structuration réglementaire et participe au recours associatif contre les autorisations de Campus IA.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0002",
+    "actor_id": "actor_0002",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0002"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "Le reportage Le Monde du 14 mai situe Jean-François Dupont et Jane Buisson ensemble à Fouju le 13 mai.",
+    "summary": "Jane Buisson, vice-présidente de FNE 77, a participé à une démarche demandant une prolongation de l'enquête publique et une nouvelle réunion d'information.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_004"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "William Elie intervient le 13 mai au rassemblement, d'après Basta! publié le 21 mai.",
+    "summary": "William Elie, intervenant pour l'Alliance écologique et sociale dans la mobilisation de Fouju, appelle à un moratoire sur ce type de grands projets.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0020"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "Député présent au rassemblement du 13 mai selon le reportage Basta! du 21 mai.",
+    "summary": "Le député Arnaud Saint-Martin critique explicitement l'ampleur énergétique, foncière et économique de Campus IA, tout en précisant ne pas être opposé par principe à tous les centres de données.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0033",
+    "actor_id": "actor_0033",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0033"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "FNE 77 identifiée au rassemblement du 13 mai dans Basta! du 21 mai.",
+    "summary": "FNE Seine-et-Marne fait partie des associations requérantes ayant engagé six recours contre les décisions relatives à Fouju.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0035",
+    "actor_id": "actor_0035",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0035"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "Les Soulèvements de la Terre sont cités parmi les organisations mobilisées le 13 mai selon Basta!.",
+    "summary": "Les Soulèvements de la Terre sont mentionnés parmi les organisations de la mobilisation contre le campus de Fouju, notamment lors des initiatives publiques du collectif.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0036",
+    "actor_id": "actor_0036",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_029"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "Confédération paysanne 77 citée parmi les organisations mobilisées le 13 mai dans Basta!.",
+    "summary": "La Confédération paysanne 77 figure parmi les organisations mobilisées localement contre l'artificialisation du projet de Fouju.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0038",
+    "actor_id": "actor_0038",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_031"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "Vert du 24 mai rapporte une prise de parole d'une bénévole LPO au rassemblement du 13 mai.",
+    "summary": "Des représentants de la LPO se sont associés aux contributions critiques et à la mobilisation sur les effets potentiels du campus pour les milieux naturels.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0040",
+    "actor_id": "actor_0040",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_033"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "Basta! mentionne Solidaires parmi les syndicats mobilisés le 13 mai.",
+    "summary": "L'union Solidaires est citée parmi les syndicats participant à la mobilisation contre les grands centres de données, dont Fouju.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0043",
+    "actor_id": "actor_0043",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-13",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_035"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "event",
+    "date_basis": "William Elie parle au nom de l'Alliance écologique et sociale à la mobilisation du 13 mai, selon Basta!.",
+    "summary": "L'Alliance écologique et sociale intervient par la voix de William Elie lors de la mobilisation de Fouju et propose un moratoire national sur ce type d'implantations.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_006"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Date explicite dans l'URL de l'article Le Monde.",
+    "summary": "Lou Welgrym (Data for Good) critique les simplifications administratives et les restrictions des recours des citoyens, citant Fouju pour discuter de souveraineté ; il ne s'agit pas d'un recours judiciaire individuel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_007"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Date explicite dans l'URL de l'article Le Monde.",
+    "summary": "Marie Garin (CNRS) met en question les hypothèses de demande future qui sous-tendent la multiplication des centres de calcul, dans un article consacré notamment à Fouju ; sa position personnelle sur l'autorisation du site n'est pas établie. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0075",
+    "actor_id": "actor_0075",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0075"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Le Monde du 14 mai 2026 cite Maxime Colin de FNE Île-de-France sur Fouju, avant les recours d'octobre.",
+    "summary": "Maxime Colin, juriste de FNE Île-de-France, prend position dans le dossier de presse associatif contre les risques et les procédures du projet.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0081",
+    "actor_id": "actor_0081",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0081"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Le Monde du 14 mai 2026 cite Michaël Reffay, représentant de la filière, en débat sur les datacenters.",
+    "summary": "Michaël Reffay, délégué général de France Datacenter, défend les effets possibles de Campus IA sur la souveraineté et le rapatriement de capacités numériques, dans un reportage de TF1.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0082",
+    "actor_id": "actor_0082",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-14",
+    "date_precision": "day",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_lot_r71"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0082"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Intervention de Michaël Reffay dans Le Monde du 14 mai 2026, au titre de France Datacenter.",
+    "summary": "France Datacenter, organisation professionnelle représentée par Michaël Reffay, défend l'intérêt industriel des capacités de calcul françaises dans le cadre du débat sur Fouju.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-18",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r69"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_005"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication",
+    "date_basis": "Parution indiquée le 18 mai 2026 dans la liste d'actualité locale ; date d'origine à vérifier sur l'article.",
+    "summary": "Dorothée Villemaux, représentante des Écologistes de Melun Val de Seine, appelle les habitants à s'informer sur les risques allégués et les caractéristiques de Campus IA ; aucune déclaration de refus total n'est citée ici.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0039",
+    "actor_id": "actor_0039",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-18",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r69"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_032"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication",
+    "date_basis": "Publication Actu.fr mentionnée comme datée du 18 mai dans un agrégateur ; date originale à revérifier.",
+    "summary": "Les Écologistes de Melun Val de Seine relaient les enjeux environnementaux du projet par la voix de Dorothée Villemaux, sans que ce seul article documente une procédure contentieuse propre à la structure.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0047",
+    "actor_id": "actor_0047",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-18",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r69"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0047"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication",
+    "date_basis": "L'article de mai sur les opposants identifie Stop Campus IA, sous réserve de la date confirmée par l'agrégateur.",
+    "summary": "Le collectif Stop Campus IA publie une pétition, des ressources de mobilisation et des documents contestant explicitement l'installation de Campus IA à Fouju.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-21",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_015"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Prise de parole de la maraîchère citée dans Basta! daté du 21 mai 2026 ; prénom d'emprunt, aucun nom réel supposé.",
+    "summary": "Une maraîchère prénommée Maud, identifiée seulement par un prénom d'emprunt, fait part de préoccupations sur d'éventuelles pollutions atmosphériques et PFAS ; le risque n'est pas constaté sur le site.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0076",
+    "actor_id": "actor_0076",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-21",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r68"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0076"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Basta! du 21 mai 2026 cite Pauline Isambert au sujet des terres agricoles.",
+    "summary": "Pauline Isambert, de la Confédération paysanne d'Île-de-France, qualifie le projet de non-sens écologique et critique l'artificialisation agricole.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0025",
+    "actor_id": "actor_0025",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-24",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0025"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Le maire Jonathan Wochenmayer est nommément cité et sa position caractérisée dans Vert du 24 mai.",
+    "summary": "Le maire de Fouju Jonathan Wochenmayer défend l'accueil du campus sur une zone qu'il juge relativement moins impactante et fait valoir les recettes possibles pour la commune.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0027",
+    "actor_id": "actor_0027",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-24",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_021"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Propos attribués à Christian Poteau par Vert, daté du 24 mai 2026.",
+    "summary": "Christian Poteau, président de la CCBRC, qualifie Campus IA de beau projet et défend les retombées locales, tout en demandant l'absence de prélèvement dans la nappe.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0074",
+    "actor_id": "actor_0074",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-24",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r64"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_055"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Vert du 24 mai 2026 cite les critiques de l'apiculteur Jean-Noël Péché.",
+    "summary": "Jean-Noël Péché, apiculteur près de Fouju, critique l'artificialisation et les pressions croissantes sur le territoire, selon les propos rapportés.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0021",
+    "actor_id": "actor_0021",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-28",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_off_senat"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0021"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_publication",
+    "date_basis": "Question écrite originale au Sénat publiée le 28 mai 2026, source institutionnelle datée.",
+    "summary": "La sénatrice Marianne Margaté critique le modèle de territoire supportant les nuisances et s'inquiète du bruit, de la chaleur et de l'éclairage projetés.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0014",
+    "actor_id": "actor_0014",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06",
+    "date_precision": "month",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_011"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication_month",
+    "date_basis": "Entretien cité en juin 2026 dans le corpus L'Humanité et par l'intéressée ; jour non retenu car métadonnées divergentes.",
+    "summary": "Laurence Allard qualifie de mobilisation exemplaire le rassemblement local contre les grands data centers ; cette appréciation n'équivaudrait pas à une position sur chaque arrêté.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06",
+    "date_precision": "month",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_012"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication_month",
+    "date_basis": "Le reportage L'Humanité est datable de juin 2026 ; jour exact non garanti.",
+    "summary": "Pauline Denis (The Shift Project) alerte sur une possible saturation des capacités de raccordement et les enjeux d'électrification ; elle exprime une analyse sectorielle, pas un recours propre à Fouju. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0022",
+    "actor_id": "actor_0022",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06",
+    "date_precision": "month",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_018"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication_month",
+    "date_basis": "Reportage L'Humanité de juin 2026 ; journée précise de publication non garantie.",
+    "summary": "Stéphanie Le Meur souligne des pressions budgétaires pesant selon elle sur les décisions locales et craint que les habitants soient mis devant le fait accompli.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0041",
+    "actor_id": "actor_0041",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06",
+    "date_precision": "month",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_034"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication_month",
+    "date_basis": "Reportage L'Humanité de juin 2026, présence rapportée sans procédure contentieuse propre.",
+    "summary": "Solidaires Informatique est cité parmi les organisations présentes à un rassemblement de sensibilisation contre les mégaprojets de données ; aucune action juridique particulière ne lui est attribuée.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0044",
+    "actor_id": "actor_0044",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06",
+    "date_precision": "month",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_036"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication_month",
+    "date_basis": "Reportage L'Humanité de juin 2026, organisation citée comme participante.",
+    "summary": "Attac apparaît parmi les organisations présentes lors d'une mobilisation à Champeaux ; le reportage ne permet pas de lui imputer personnellement l'ensemble des griefs ni un recours déposé. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0046",
+    "actor_id": "actor_0046",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06",
+    "date_precision": "month",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r55"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_038"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication_month",
+    "date_basis": "Reportage L'Humanité de juin 2026, organisation mentionnée.",
+    "summary": "Extinction Rebellion apparaît parmi les organisations citées pendant une mobilisation territoriale contre les grands centres de données ; aucun recours propre n'est identifié par ce reportage. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0058",
+    "actor_id": "actor_0058",
+    "event_type": "first_documented_appearance",
+    "date": "2026-07-15",
+    "date_precision": "day",
+    "category": "institutions",
+    "source_ids": [
+      "source_fouju_off_enquete"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_049"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_event",
+    "date_basis": "Rapport favorable de la commission d'enquête publié le 15 juillet 2026 selon la chronologie sourcée actuelle.",
+    "summary": "La commission d'enquête a rendu un avis favorable dans son rapport publié en juillet 2026 ; cet avis administratif n'est pas un militantisme de soutien au projet. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0067",
+    "actor_id": "actor_0067",
+    "event_type": "first_documented_appearance",
+    "date": "2026-07-16",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r45"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_050"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_publication",
+    "date_basis": "Compte rendu de la commission de l'Assemblée déposé le 16 juillet 2026 ; propos attribués à la députée dans le corpus.",
+    "summary": "La députée Ersilia Soudais a publiquement qualifié Campus IA d'aberration écologique lors d'une audition à l'Assemblée nationale.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0078",
+    "actor_id": "actor_0078",
+    "event_type": "first_documented_appearance",
+    "date": "2026-07-29",
+    "date_precision": "day",
+    "category": "institutions",
+    "source_ids": [
+      "source_fouju_off_pref"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_059"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_event",
+    "date_basis": "Arrêtés préfectoraux du 29 juillet 2026, signature de l'autorité administrative ; aucune position personnelle politique supposée.",
+    "summary": "Le préfet Pierre Ory représente l'autorité ayant pris les arrêtés du 29 juillet 2026 ; une décision administrative ne suffit pas à déterminer son opinion personnelle. Aucun soutien ni rejet propre à l'autorisation de Fouju ne doit être déduit de ce seul rôle ou propos sectoriel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0051",
+    "actor_id": "actor_0051",
+    "event_type": "first_documented_appearance",
+    "date": "2026-07-30",
+    "date_precision": "day",
+    "category": "entreprises",
+    "source_ids": [
+      "source_fouju_off_senat"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0051"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_publication",
+    "date_basis": "Réponse ministérielle au Sénat du 30 juillet 2026 citant expressément Eiffage retenue pour la sous-station et les infrastructures communes.",
+    "summary": "Eiffage Énergie Systèmes est présenté comme entreprise retenue sur un volet d'infrastructures du projet Campus IA ; la participation économique documentée n'est pas un soutien politique.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0071",
+    "actor_id": "actor_0071",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-11",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r37"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_052"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Reportage JSS/AFP publié le 11 août 2026 et rapportant l'appréciation de la riveraine.",
+    "summary": "Eveline Biaggini, habitante citée dans un reportage sur Fouju, qualifie le projet de catastrophe écologique ; il s'agit de son appréciation personnelle.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0072",
+    "actor_id": "actor_0072",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-11",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r37"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_053"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Reportage JSS/AFP du 11 août 2026 et témoignage attribué à Giuliano Del Negro.",
+    "summary": "Giuliano Del Negro, habitant ayant assisté à une réunion d'information, exprime des doutes sur la présentation et les conséquences possibles du projet.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0073",
+    "actor_id": "actor_0073",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-11",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r37"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_054"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Reportage JSS/AFP du 11 août 2026, témoin désigné par le seul prénom Laurent.",
+    "summary": "Un habitant présenté sous le seul prénom Laurent dit explicitement être pour Campus IA, en invoquant l'emploi et les retombées économiques.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0068",
+    "actor_id": "actor_0068",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-19",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r32"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_051"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Texte signé de Cyrielle Chatelain sur le site des Écologistes, daté du 19 août 2026.",
+    "summary": "Cyrielle Chatelain cosigne une prise de position des Écologistes condamnant l'ampleur énergétique et foncière du projet de Fouju et demandant une réorientation des politiques de data centers.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0091",
+    "actor_id": "actor_0091",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-19",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r32"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0091"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Prise de position cosignée par Arnaud Bonnet sur le site Les Écologistes le 19 août 2026.",
+    "summary": "Le député écologiste Arnaud Bonnet qualifie l'implication de capitaux émiratis dans le projet de Fouju de risque pour l'indépendance numérique et de fausse bonne idée.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0077",
+    "actor_id": "actor_0077",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-28",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r29"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_evolution_20261108_0077"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "Presse-citron du 28 août 2026 attribue des critiques à Céline Malaisé.",
+    "summary": "Céline Malaisé, conseillère régionale, critique l'urbanisation de terres et les modalités démocratiques du projet de Fouju.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0079",
+    "actor_id": "actor_0079",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-18",
+    "date_precision": "day",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r23"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_060"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "TF1 Info daté du 18 septembre 2026, témoignage d'Evelyne Michel.",
+    "summary": "Evelyne Michel, riveraine du hameau des Bordes, exprime une inquiétude sur les nuisances possibles, en particulier le bruit et la proximité du campus.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0080",
+    "actor_id": "actor_0080",
+    "event_type": "first_documented_appearance",
+    "date": "2026-09-18",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r23"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_061"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "publication",
+    "date_basis": "TF1 Info daté du 18 septembre 2026, intervention de Manuel Sirera.",
+    "summary": "Manuel Sirera, maire élu de Crisenoy en 2026, est cité au sujet des inquiétudes sur les effets du data center ; les propos rapportés ne démontrent pas une opposition formelle.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0045",
+    "actor_id": "actor_0045",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10",
+    "date_precision": "month",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r10"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_037"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication_month",
+    "date_basis": "La Tribune situe les six recours et la participation des Amis de la Terre en octobre 2026 ; jour exact non établi.",
+    "summary": "Les Amis de la Terre figurent parmi les organisations ayant engagé des recours contre le projet de Campus IA.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0089",
+    "actor_id": "actor_0089",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10",
+    "date_precision": "month",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r10"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_068"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "publication_month",
+    "date_basis": "La Tribune publie en octobre 2026 les explications de Louis Cofflard sur les procédures ; jour exact non confirmé.",
+    "summary": "L'avocat Louis Cofflard détaille les six recours et expose les critiques juridiques du collectif sur le montage des sociétés exploitantes ; ce sont des allégations des requérants.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0034",
+    "actor_id": "actor_0034",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-09",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_027"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "public_announcement",
+    "date_basis": "Présentation publique de la procédure collective du 9 octobre, référencée dans la chronologie existante et le dossier FNE IDF.",
+    "summary": "FNE Île-de-France annonce et documente une série de recours visant les autorisations du Campus IA de Fouju.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0037",
+    "actor_id": "actor_0037",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-09",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_030"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "public_announcement",
+    "date_basis": "Confédération paysanne IDF répertoriée parmi les requérants et les organisations du dossier collectif d'octobre 2026.",
+    "summary": "La Confédération paysanne d'Île-de-France fait partie des organisations annonçant les recours juridictionnels contre le Campus IA.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0087",
+    "actor_id": "actor_0087",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-09",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_066"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "public_announcement",
+    "date_basis": "Dossier de presse associatif d'octobre 2026, annonce des recours incluant R.E.N.A.R.D.",
+    "summary": "L'association R.E.N.A.R.D est expressément identifiée parmi les requérants opposés au Campus IA dans le communiqué collectif d'octobre 2026.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0088",
+    "actor_id": "actor_0088",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-09",
+    "date_precision": "day",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r4"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_067"
+    ],
+    "status": "confirmed",
+    "confidence": "medium",
+    "date_kind": "public_announcement",
+    "date_basis": "Dossier de presse associatif d'octobre 2026, annonce des recours incluant Terre de Liens IDF.",
+    "summary": "Terre de Liens Île-de-France annonce participer aux recours contre le projet de Fouju aux côtés de FNE et de la Confédération paysanne.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0090",
+    "actor_id": "actor_0090",
+    "event_type": "first_documented_appearance",
+    "date": "2026-10-15",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_off_senguhl"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_069"
+    ],
+    "status": "confirmed",
+    "confidence": "high",
+    "date_kind": "official_publication",
+    "date_basis": "Question écrite d'Antoinette Guhl publiée au JO Sénat le 15 octobre 2026.",
+    "summary": "La sénatrice Antoinette Guhl interroge le gouvernement le 15 octobre 2026 sur les conséquences environnementales et les droits humains dans le projet Campus IA ; elle n'annonce pas dans cette question un recours personnel.",
+    "statement_kind": "premiere_apparition_documentee_dans_corpus_et_non_premiere_prise_de_position",
+    "current_stance": "neutral"
+  },
+  {
+    "id": "timeline_fouju_0003",
+    "actor_id": "actor_0003",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "habitants",
+    "source_ids": [
+      "source_fouju_lot_r76"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_003"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_kind": "unconfirmed",
+    "date_basis": "Position documentée par France 3 dans la base actuelle, mais date de l'article non confirmée ; ne pas inventer de jour ou de mois.",
+    "summary": "Aline Aurias, porte-parole de la Confédération paysanne, s'oppose à l'artificialisation agricole prévue et critique la dimension du projet.",
+    "current_stance": "opposed"
+  },
+  {
+    "id": "timeline_fouju_0026",
+    "actor_id": "actor_0026",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r85"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_020"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_kind": "unconfirmed",
+    "date_basis": "Interview sur le Campus IA connue, mais date de publication de l'entretien Actu.fr non confirmée.",
+    "summary": "Le député Jean-Louis Thiériot qualifie l'arrivée de grands data centers en Seine-et-Marne d'excellente nouvelle et y voit un levier de souveraineté et d'économie.",
+    "current_stance": "favorable"
+  },
+  {
+    "id": "timeline_fouju_0028",
+    "actor_id": "actor_0028",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_off_crisenoy"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_022"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_kind": "unconfirmed",
+    "date_basis": "Élection municipale datable en mars 2026, mais ce fait électoral ne permet pas de dater une première position propre sur Campus IA.",
+    "summary": "Hervé Jeannin, ancien maire de Crisenoy, a été battu aux municipales de mars 2026 par Manuel Sirera ; sa présence lors de réunions de 2025 ne permet pas d'établir une position actuelle.",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0032",
+    "actor_id": "actor_0032",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "source_ids": [
+      "source_fouju_lot_r47"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_025"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_kind": "unconfirmed",
+    "date_basis": "Analyse régionale retrouvée, mais article Mesinfos sans date de publication directement vérifiable.",
+    "summary": "Valérie Pécresse intervient sur les enjeux régionaux des data centers et de la chaleur récupérable ; aucune prise de position personnelle explicite pour ou contre les autorisations de Fouju n'est démontrée par cette source.",
+    "current_stance": "unknown"
+  },
+  {
+    "id": "timeline_fouju_0083",
+    "actor_id": "actor_0083",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "collectifs",
+    "source_ids": [
+      "source_fouju_lot_r49"
+    ],
+    "evidence_ids": [
+      "evidence_fouju_20261106_064"
+    ],
+    "status": "undated",
+    "confidence": "low",
+    "date_kind": "unconfirmed",
+    "date_basis": "Mobilisation relayée via une publication Facebook sans date de publication fiable récupérable.",
+    "summary": "Terres de luttes relaie une mobilisation contre le Campus IA de Fouju dans une publication de réseau social fournie dans le corpus.",
+    "current_stance": "opposed"
+  }
+]

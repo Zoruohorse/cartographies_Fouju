@@ -119,5 +119,43 @@
       "label": "Avis réglementaire sur",
       "directed": true
     }
+  },
+  "timeline": {
+    "grouping": "month",
+    "event_type": "first_documented_appearance",
+    "default_mode": "cumulative",
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et personnalités politiques",
+        "color": "#b55dc5"
+      },
+      {
+        "id": "collectifs",
+        "label": "Associations, collectifs et syndicats",
+        "color": "#f59e0b"
+      },
+      {
+        "id": "entreprises",
+        "label": "Entreprises et partenaires",
+        "color": "#0f9f8f"
+      },
+      {
+        "id": "institutions",
+        "label": "Institutions et autorités",
+        "color": "#3478c7"
+      },
+      {
+        "id": "habitants",
+        "label": "Habitants, experts et porte-parole",
+        "color": "#ef6461"
+      }
+    ],
+    "fallback_category": "habitants",
+    "excluded_actor_categories": [
+      "project"
+    ],
+    "methodology": "Une seule entrée par acteur répertorié, au mois du premier repère documentaire datable retrouvé dans les sources existantes. Les dates peuvent désigner une réunion, une décision, la publication d'un article ou une mention rétrospective. La catégorie représente le rôle de l'acteur, et non sa position ; aucune date de mise à jour technique n'est utilisée comme date d'entrée.",
+    "last_updated": "2026-11-08"
   }
 }
