@@ -52,3 +52,8 @@
 #tab-evolution .evolution-person small {overflow-wrap:anywhere}
 #tab-evolution .evolution-section-title input {width:auto;margin-top:0;border:1px solid #cbd5e1}
 #tab-evolution .evolution-section-title select {margin-top:0;width:auto}
+
+/* Variante Fouju « Par position » : commandes adaptables aux petits écrans. */
+#tab-evolution .evolution-modes{flex-wrap:wrap}
+#tab-evolution .evolution-modes button{white-space:nowrap}
+@media(max-width:850px){#tab-evolution .evolution-modes{width:100%}}
